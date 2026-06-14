@@ -3,6 +3,7 @@ import { getAbsoluteUrl } from "../i18n/routing";
 
 const paths = [
   "/",
+  "/about",
   "/contact",
   "/products/acoustic-pendant-lights",
   "/products/acoustic-pendant-lights/tr-xym-0137-ring-family"

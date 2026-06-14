@@ -88,7 +88,7 @@
         {
           "title": "About Us",
           "text": "Company profile, team, history and B2B positioning.",
-          "href": "/#factory"
+          "href": "/about"
         },
         {
           "title": "Factory",
@@ -159,6 +159,10 @@
     ],
     "companyTitle": "Company",
     "companyLinks": [
+      {
+        "title": "About Us",
+        "href": "/about"
+      },
       {
         "title": "Solutions",
         "href": "/#solutions"
@@ -382,7 +386,17 @@
             "text": "Quality control, packaging, labeling, bulk order management and global logistics support."
           }
         ],
-        "tags": ["Size", "Shape", "Felt Color", "Wattage", "CCT", "Dimming", "Mounting", "Logo", "Packaging"]
+        "tags": [
+          "Size",
+          "Shape",
+          "Felt Color",
+          "Wattage",
+          "CCT",
+          "Dimming",
+          "Mounting",
+          "Logo",
+          "Packaging"
+        ]
       },
       "specs": {
         "eyebrow": "Material",
@@ -602,7 +616,12 @@
         "text": "KingOrnan supplies Acoustic Pendant Lights for offices, hospitality, education and commercial projects, combining PET Felt sound absorption with architectural LED lighting and OEM/ODM customization.",
         "primaryCta": "Request Pendant Quote",
         "secondaryCta": "View Product Families",
-        "proof": ["OEM/ODM", "3000K / 4000K / 6000K", "Non-dim / 1-10V / DALI", "Custom colors and sizes"],
+        "proof": [
+          "OEM/ODM",
+          "3000K / 4000K / 6000K",
+          "Non-dim / 1-10V / DALI",
+          "Custom colors and sizes"
+        ],
         "images": [
           {
             "src": "/assets/img/pendant/image533.jpeg",
@@ -646,7 +665,15 @@
         "title": "Choose a pendant form, then customize size, color, light and mounting.",
         "text": "The collection follows the product range from the acoustic lighting catalog: ring, drum, petal, cone, linear and dome pendant families for different project scenes.",
         "tagsAriaLabel": "Product family tags",
-        "tags": ["Ring", "Drum", "Cone", "Linear", "Dome", "Decorative", "OEM/ODM"],
+        "tags": [
+          "Ring",
+          "Drum",
+          "Cone",
+          "Linear",
+          "Dome",
+          "Decorative",
+          "OEM/ODM"
+        ],
         "products": [
           {
             "name": "Ribbed Acoustic Ring Pendant",
@@ -654,7 +681,11 @@
             "image": "/assets/img/pendant/image532.jpeg",
             "tag": "Ring pendant",
             "text": "A sculptural PET Felt ring pendant for lounges, meeting rooms and hospitality spaces.",
-            "specs": ["560 x 280 mm / 800 x 240 mm", "30W / 50W options", "Diffuser or microprismatic diffuser"],
+            "specs": [
+              "560 x 280 mm / 800 x 240 mm",
+              "30W / 50W options",
+              "Diffuser or microprismatic diffuser"
+            ],
             "href": "/products/acoustic-pendant-lights/tr-xym-0137-ring-family",
             "cta": "Ask for details"
           },
@@ -664,7 +695,11 @@
             "image": "/assets/img/pendant/image544.jpeg",
             "tag": "Drum pendant",
             "text": "Vertical Felt ribs soften glare and add a warm acoustic surface above tables and collaborative areas.",
-            "specs": ["Felt rib structure", "3000K / 4000K / 6000K", "Custom color options"],
+            "specs": [
+              "Felt rib structure",
+              "3000K / 4000K / 6000K",
+              "Custom color options"
+            ],
             "cta": "Ask for details"
           },
           {
@@ -673,7 +708,11 @@
             "image": "/assets/img/pendant/image594.jpeg",
             "tag": "Decorative pendant",
             "text": "Layered petal geometry creates a softer decorative language for restaurants, cafes and reception zones.",
-            "specs": ["E27 or LED versions", "Acoustic Felt body", "Custom diameter and color"],
+            "specs": [
+              "E27 or LED versions",
+              "Acoustic Felt body",
+              "Custom diameter and color"
+            ],
             "cta": "Ask for details"
           },
           {
@@ -682,7 +721,11 @@
             "image": "/assets/img/pendant/image638.jpeg",
             "tag": "Cone pendant",
             "text": "Compact cone forms support private-label pendant ranges for dining, breakout and informal meeting spaces.",
-            "specs": ["Multiple shade heights", "Non-dim / 1-10V / DALI", "PET Felt or fabric finish"],
+            "specs": [
+              "Multiple shade heights",
+              "Non-dim / 1-10V / DALI",
+              "PET Felt or fabric finish"
+            ],
             "cta": "Ask for details"
           },
           {
@@ -691,7 +734,11 @@
             "image": "/assets/img/pendant/image80.jpeg",
             "tag": "Linear pendant",
             "text": "Long-form acoustic lighting for conference tables, open offices and classroom work zones.",
-            "specs": ["1000-3000 mm lengths", "30-60W options", "Lens, diffuser or honeycomb optics"],
+            "specs": [
+              "1000-3000 mm lengths",
+              "30-60W options",
+              "Lens, diffuser or honeycomb optics"
+            ],
             "cta": "Ask for details"
           },
           {
@@ -700,7 +747,11 @@
             "image": "/assets/img/pendant/image729.jpeg",
             "tag": "Dome pendant",
             "text": "A clean dome pendant for offices and hospitality interiors needing soft light plus sound comfort.",
-            "specs": ["E27 or integrated LED", "IP20 indoor use", "Project color matching"],
+            "specs": [
+              "E27 or integrated LED",
+              "IP20 indoor use",
+              "Project color matching"
+            ],
             "cta": "Ask for details"
           }
         ]
@@ -921,6 +972,108 @@
         "text": "Send size, quantity, color, CCT, dimming and destination market. Our team will confirm configuration and quotation details.",
         "primaryCta": "Email Sales",
         "secondaryCta": "WhatsApp: +86 15888067484"
+      }
+    },
+    "about": {
+      "seo": {
+        "title": "About KingOrnan | PET Felt Acoustic Lighting Manufacturer",
+        "description": "Learn about KingOrnan, founded by Alinna in 2012, and our path from LED lighting manufacturing to custom PET Felt Acoustic Lighting for global B2B projects."
+      },
+      "hero": {
+        "eyebrow": "About KingOrnan",
+        "title": "A lighting manufacturer built on reliability, value and long-term partnership.",
+        "lead": "Founded in 2012 by Alinna, KingOrnan has grown from LED panel, tube and batten lighting into a B2B acoustic lighting partner for importers, distributors, contractors and design-led commercial projects.",
+        "primaryCta": "Talk to Alinna's team",
+        "secondaryCta": "View factory capability",
+        "founderImageAlt": "Alinna, founder of KingOrnan",
+        "founderLabel": "Founder",
+        "founderName": "Alinna",
+        "founderTitle": "Founder of KingOrnan"
+      },
+      "proof": [
+        {
+          "value": "2012",
+          "label": "Founded in China"
+        },
+        {
+          "value": "10+ yrs",
+          "label": "Lighting manufacturing experience"
+        },
+        {
+          "value": "OEM/ODM",
+          "label": "Custom project support"
+        },
+        {
+          "value": "Global",
+          "label": "B2B buyer support"
+        }
+      ],
+      "story": {
+        "eyebrow": "Our Story",
+        "title": "Our story begins with a clear belief about lighting.",
+        "paragraphs": [
+          "KingOrnan was born in China in 2012, founded by Alinna with a simple standard: lighting should be simple, reliable and valuable for the customer.",
+          "The company started from practical LED products such as panel lights, tubes and batten lights. As customer needs changed, KingOrnan expanded manufacturing capability, materials processing and commercial lighting development.",
+          "In recent years, we have focused on PET Felt Acoustic Lighting, combining sound-absorbing materials with architectural LED systems for offices, hospitality, education and commercial interiors.",
+          "Today, KingOrnan is more than a product supplier. We work as a solution partner for buyers who need stable supply, custom development, clear communication and products that create value in their local market."
+        ],
+        "quoteLabel": "Founder Belief",
+        "quote": "Lighting should be simple, reliable, and valuable.",
+        "quoteSource": "Alinna, Founder of KingOrnan"
+      },
+      "values": {
+        "eyebrow": "Vision & Mission",
+        "title": "We focus on useful lighting solutions, not catalog items only.",
+        "text": "The original KingOrnan vision was to become a strong lighting company in China by creating customer value. That idea still guides our acoustic lighting work today.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Create customer value",
+            "text": "We help buyers develop products that fit their market, project requirements and brand position."
+          },
+          {
+            "number": "02",
+            "title": "Provide practical solutions",
+            "text": "From product structure and PET Felt color to LED specification, dimming, packaging and delivery, we support the full project path."
+          },
+          {
+            "number": "03",
+            "title": "Build long-term trust",
+            "text": "Clear communication, stable quality control and responsible after-sales support make cooperation easier for overseas B2B buyers."
+          }
+        ]
+      },
+      "timeline": {
+        "eyebrow": "Development Path",
+        "title": "From LED basics to acoustic lighting solutions.",
+        "items": [
+          {
+            "year": "2012",
+            "title": "KingOrnan founded",
+            "text": "Alinna founded KingOrnan in China, starting with reliable LED panel, tube and batten lighting products."
+          },
+          {
+            "year": "2016+",
+            "title": "Manufacturing expansion",
+            "text": "The company expanded commercial lighting capability, materials processing and project-based production support."
+          },
+          {
+            "year": "2021",
+            "title": "Advanced commercial lighting focus",
+            "text": "KingOrnan strengthened magnetic track lighting and higher-value commercial lighting systems."
+          },
+          {
+            "year": "Now",
+            "title": "Acoustic lighting partner",
+            "text": "We develop PET Felt Acoustic Pendant Lights, linear lights and custom acoustic lighting systems for global B2B buyers."
+          }
+        ]
+      },
+      "cta": {
+        "eyebrow": "Work With Us",
+        "title": "Ready to build your next acoustic lighting project?",
+        "text": "Share your target product, quantity, market, certification needs and design requirements. Our team will help confirm a practical solution.",
+        "button": "Send project requirements"
       }
     }
   }

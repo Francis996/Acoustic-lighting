@@ -88,7 +88,7 @@
         {
           "title": "Nosotros",
           "text": "Perfil de empresa, equipo, trayectoria y posicionamiento B2B.",
-          "href": "/#factory"
+          "href": "/about"
         },
         {
           "title": "F\u00e1brica",
@@ -159,6 +159,10 @@
     ],
     "companyTitle": "Empresa",
     "companyLinks": [
+      {
+        "title": "Acerca de nosotros",
+        "href": "/about"
+      },
       {
         "title": "Soluciones",
         "href": "/#solutions"
@@ -968,6 +972,108 @@
         "text": "Env\u00ede tama\u00f1o, cantidad, color, CCT, regulaci\u00f3n y mercado destino. Nuestro equipo confirmar\u00e1 configuraci\u00f3n y cotizaci\u00f3n.",
         "primaryCta": "Enviar correo a ventas",
         "secondaryCta": "WhatsApp: +86 15888067484"
+      }
+    },
+    "about": {
+      "seo": {
+        "title": "Acerca de KingOrnan | Fabricante de PET Felt Acoustic Lighting",
+        "description": "Conozca KingOrnan, fundada por Alinna en 2012, y nuestra evoluci\u00f3n desde iluminaci\u00f3n LED hasta Custom PET Felt Acoustic Lighting para proyectos B2B globales."
+      },
+      "hero": {
+        "eyebrow": "Acerca de KingOrnan",
+        "title": "Un fabricante de iluminaci\u00f3n basado en fiabilidad, valor y cooperaci\u00f3n a largo plazo.",
+        "lead": "Fundada en 2012 por Alinna, KingOrnan creci\u00f3 desde paneles LED, tubos y luminarias batten hasta convertirse en socio B2B de acoustic lighting para importadores, distribuidores, contratistas y proyectos comerciales de dise\u00f1o.",
+        "primaryCta": "Contactar con el equipo de Alinna",
+        "secondaryCta": "Ver capacidad de f\u00e1brica",
+        "founderImageAlt": "Alinna, fundadora de KingOrnan",
+        "founderLabel": "Fundadora",
+        "founderName": "Alinna",
+        "founderTitle": "Fundadora de KingOrnan"
+      },
+      "proof": [
+        {
+          "value": "2012",
+          "label": "Fundada en China"
+        },
+        {
+          "value": "10+ a\u00f1os",
+          "label": "Experiencia en fabricaci\u00f3n LED"
+        },
+        {
+          "value": "OEM/ODM",
+          "label": "Soporte para proyectos personalizados"
+        },
+        {
+          "value": "Global",
+          "label": "Soporte para compradores B2B"
+        }
+      ],
+      "story": {
+        "eyebrow": "Nuestra historia",
+        "title": "Nuestra historia empieza con una idea clara sobre la iluminaci\u00f3n.",
+        "paragraphs": [
+          "KingOrnan naci\u00f3 en China en 2012, fundada por Alinna con un est\u00e1ndar sencillo: la iluminaci\u00f3n debe ser simple, fiable y valiosa para el cliente.",
+          "La empresa comenz\u00f3 con productos LED pr\u00e1cticos como paneles, tubos y luminarias batten. A medida que cambiaron las necesidades del mercado, KingOrnan ampli\u00f3 su capacidad de fabricaci\u00f3n, procesamiento de materiales y desarrollo de iluminaci\u00f3n comercial.",
+          "En los \u00faltimos a\u00f1os nos hemos enfocado en PET Felt Acoustic Lighting, combinando materiales de absorci\u00f3n ac\u00fastica con sistemas LED arquitect\u00f3nicos para oficinas, hospitality, educaci\u00f3n e interiores comerciales.",
+          "Hoy KingOrnan es m\u00e1s que un proveedor de productos. Trabajamos como socio de soluciones para compradores que necesitan suministro estable, desarrollo personalizado, comunicaci\u00f3n clara y productos con valor para su mercado local."
+        ],
+        "quoteLabel": "Creencia de la fundadora",
+        "quote": "Lighting should be simple, reliable, and valuable.",
+        "quoteSource": "Alinna, fundadora de KingOrnan"
+      },
+      "values": {
+        "eyebrow": "Visi\u00f3n y misi\u00f3n",
+        "title": "Nos enfocamos en soluciones \u00fatiles, no solo en productos de cat\u00e1logo.",
+        "text": "La visi\u00f3n original de KingOrnan fue crear valor para el cliente y convertirse en una empresa s\u00f3lida de iluminaci\u00f3n en China. Esa idea sigue guiando nuestro trabajo en acoustic lighting.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Crear valor para el cliente",
+            "text": "Ayudamos a compradores a desarrollar productos adecuados para su mercado, proyecto y posicionamiento de marca."
+          },
+          {
+            "number": "02",
+            "title": "Ofrecer soluciones pr\u00e1cticas",
+            "text": "Desde estructura, color PET Felt y especificaci\u00f3n LED hasta dimming, embalaje y entrega, apoyamos todo el proceso."
+          },
+          {
+            "number": "03",
+            "title": "Construir confianza a largo plazo",
+            "text": "Comunicaci\u00f3n clara, control de calidad estable y soporte responsable facilitan la cooperaci\u00f3n B2B internacional."
+          }
+        ]
+      },
+      "timeline": {
+        "eyebrow": "Camino de desarrollo",
+        "title": "De iluminaci\u00f3n LED b\u00e1sica a soluciones acoustic lighting.",
+        "items": [
+          {
+            "year": "2012",
+            "title": "Fundaci\u00f3n de KingOrnan",
+            "text": "Alinna fund\u00f3 KingOrnan en China, empezando con paneles LED, tubos y luminarias batten fiables."
+          },
+          {
+            "year": "2016+",
+            "title": "Expansi\u00f3n de fabricaci\u00f3n",
+            "text": "La empresa ampli\u00f3 capacidad de iluminaci\u00f3n comercial, procesamiento de materiales y soporte de producci\u00f3n por proyecto."
+          },
+          {
+            "year": "2021",
+            "title": "Mayor enfoque comercial",
+            "text": "KingOrnan fortaleci\u00f3 magnetic track lighting y sistemas de iluminaci\u00f3n comercial de mayor valor."
+          },
+          {
+            "year": "Ahora",
+            "title": "Socio de acoustic lighting",
+            "text": "Desarrollamos PET Felt Acoustic Pendant Lights, luces lineales y sistemas personalizados para compradores B2B globales."
+          }
+        ]
+      },
+      "cta": {
+        "eyebrow": "Trabaje con nosotros",
+        "title": "\u00bfListo para desarrollar su pr\u00f3ximo proyecto de acoustic lighting?",
+        "text": "Comparta producto objetivo, cantidad, mercado, certificaciones y requisitos de dise\u00f1o. Nuestro equipo le ayudar\u00e1 a confirmar una soluci\u00f3n pr\u00e1ctica.",
+        "button": "Enviar requisitos del proyecto"
       }
     }
   }
