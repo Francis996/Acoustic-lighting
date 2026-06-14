@@ -530,7 +530,7 @@
           "OEM/ODM Acoustic Lighting",
           "Catalog / Parameter Sheet"
         ],
-        "note": "After submitting, your email client may open to send the inquiry to sales@kingornan.com."
+        "note": "After submitting, your inquiry will be sent directly to xmtlighting@gmail.com."
       },
       "cardsSection": {
         "eyebrow": "More Ways to Connect",
@@ -539,8 +539,8 @@
         "cards": [
           {
             "label": "E-mail",
-            "value": "sales@kingornan.com",
-            "href": "mailto:sales@kingornan.com?subject=Acoustic%20Lighting%20Project%20Inquiry"
+            "value": "xmtlighting@gmail.com",
+            "href": "mailto:xmtlighting@gmail.com?subject=Acoustic%20Lighting%20Project%20Inquiry"
           },
           {
             "label": "Phone / WhatsApp",

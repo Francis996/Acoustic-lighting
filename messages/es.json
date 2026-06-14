@@ -540,7 +540,7 @@
           "OEM/ODM Acoustic Lighting",
           "Catalog / Parameter Sheet"
         ],
-        "note": "Despu\u00e9s de enviar, su cliente de correo puede abrirse para mandar la consulta a sales@kingornan.com."
+        "note": "Despu\u00e9s de enviar, su consulta se enviar\u00e1 directamente a xmtlighting@gmail.com."
       },
       "cardsSection": {
         "eyebrow": "M\u00e1s formas de conectar",
@@ -549,8 +549,8 @@
         "cards": [
           {
             "label": "Correo",
-            "value": "sales@kingornan.com",
-            "href": "mailto:sales@kingornan.com?subject=Acoustic%20Lighting%20Project%20Inquiry"
+            "value": "xmtlighting@gmail.com",
+            "href": "mailto:xmtlighting@gmail.com?subject=Acoustic%20Lighting%20Project%20Inquiry"
           },
           {
             "label": "Tel\u00e9fono / WhatsApp",

@@ -2,6 +2,7 @@
 
 import { SiteFooter } from "../SiteFooter";
 import { SiteHeader } from "../SiteHeader";
+import { InquiryHiddenFields, inquiryAction } from "../inquiryConfig";
 
 export function ContactPage({ locale, messages, currentPath }) {
   const page = messages.pages.contact;
@@ -25,7 +26,8 @@ export function ContactPage({ locale, messages, currentPath }) {
               </div>
             </div>
 
-            <form className="inquiry-form contact-page-form reveal delay-1" id="contact-form" action="mailto:sales@kingornan.com" method="post" encType="text/plain">
+            <form className="inquiry-form contact-page-form reveal delay-1" id="contact-form" action={inquiryAction} method="post">
+              <InquiryHiddenFields subject="Acoustic Lighting Project Inquiry" />
               <div className="form-intro full">
                 <span>{page.formIntro.label}</span>
                 <strong>{page.formIntro.title}</strong>

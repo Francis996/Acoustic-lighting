@@ -2,6 +2,7 @@
 
 import { SiteFooter } from "../SiteFooter";
 import { SiteHeader } from "../SiteHeader";
+import { InquiryHiddenFields, inquiryAction, inquiryEmail, mailtoHref } from "../inquiryConfig";
 import { localizeHref } from "../../i18n/routing";
 
 export function HomePage({ locale, messages, currentPath }) {
@@ -16,7 +17,7 @@ export function HomePage({ locale, messages, currentPath }) {
         alternateName: "KingOrnan",
         url: "https://www.kingornan.com/",
         logo: "https://www.kingornan.com/assets/img/brand/kingornan-logo-header.png",
-        email: "sales@kingornan.com",
+        email: inquiryEmail,
         telephone: "+86 15888067484",
         address: {
           "@type": "PostalAddress",
@@ -300,14 +301,15 @@ export function HomePage({ locale, messages, currentPath }) {
               <h2>{page.contact.title}</h2>
               <p>{page.contact.text}</p>
               <div className="contact-methods">
-                <a href="mailto:sales@kingornan.com?subject=Acoustic%20Lighting%20Project%20Inquiry">sales@kingornan.com</a>
+                <a href={mailtoHref("Acoustic Lighting Project Inquiry")}>{inquiryEmail}</a>
                 <a href="https://wa.me/8615888067484" target="_blank" rel="noopener">
                   WhatsApp: +86 15888067484
                 </a>
               </div>
             </div>
 
-            <form className="inquiry-form reveal delay-1" action="mailto:sales@kingornan.com" method="post" encType="text/plain">
+            <form className="inquiry-form reveal delay-1" action={inquiryAction} method="post">
+              <InquiryHiddenFields subject="Acoustic Lighting Project Inquiry" />
               <label>
                 {page.contact.form.name}
                 <input type="text" name="Name" placeholder={page.contact.form.placeholders.name} required />

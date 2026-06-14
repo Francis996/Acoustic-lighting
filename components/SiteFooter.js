@@ -1,4 +1,5 @@
 import { localizeHref } from "../i18n/routing";
+import { inquiryEmail, mailtoHref } from "./inquiryConfig";
 
 export function SiteFooter({ locale, messages }) {
   const footer = messages.footer;
@@ -42,7 +43,7 @@ export function SiteFooter({ locale, messages }) {
           <address>
             <strong>{footer.contactTitle}</strong>
             <span>{footer.contactName}</span>
-            <a href="mailto:sales@kingornan.com">sales@kingornan.com</a>
+            <a href={mailtoHref("Acoustic Lighting Project Inquiry")}>{inquiryEmail}</a>
             <a href="https://wa.me/8615888067484" target="_blank" rel="noopener">
               +86 15888067484
             </a>

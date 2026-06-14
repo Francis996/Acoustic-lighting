@@ -2,6 +2,7 @@
 
 import { SiteFooter } from "../SiteFooter";
 import { SiteHeader } from "../SiteHeader";
+import { mailtoHref } from "../inquiryConfig";
 import { localizeHref } from "../../i18n/routing";
 
 export function ProductDetailPage({ locale, messages, currentPath }) {
@@ -71,7 +72,7 @@ export function ProductDetailPage({ locale, messages, currentPath }) {
             <div className="simple-quote-card reveal delay-1" id="quote">
               <h2>{page.quote.title}</h2>
               <p>{page.quote.text}</p>
-              <a className="btn primary" href="mailto:sales@kingornan.com?subject=TR-XYM-0137%20Ring%20Family%20Inquiry">{page.quote.primaryCta}</a>
+              <a className="btn primary" href={mailtoHref("TR-XYM-0137 Ring Family Inquiry")}>{page.quote.primaryCta}</a>
               <a className="simple-text-link" href="https://wa.me/8615888067484" target="_blank" rel="noopener">{page.quote.secondaryCta}</a>
             </div>
           </div>
