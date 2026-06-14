@@ -1,0 +1,927 @@
+{
+  "locale": "en",
+  "common": {
+    "logoAlt": "KingOrnan logo",
+    "brandAriaLabel": "KingOrnan home",
+    "whatsappAriaLabel": "Contact KingOrnan on WhatsApp",
+    "getQuote": "Get a Quote",
+    "downloadCatalog": "Download Catalog"
+  },
+  "navigation": {
+    "ariaLabel": "Main navigation",
+    "openNavigation": "Open navigation",
+    "home": "Home",
+    "products": {
+      "label": "Products",
+      "introLabel": "Product Range",
+      "introTitle": "PET Felt Acoustic Lighting built for B2B project supply.",
+      "introText": "Explore acoustic pendant, linear, baffle, ceiling and wall lighting for commercial interiors.",
+      "introCta": "View pendant collection",
+      "introHref": "/products/acoustic-pendant-lights",
+      "items": [
+        {
+          "title": "Acoustic Pendant Lights",
+          "text": "PET Felt Acoustic Pendant Lights for offices, meeting rooms and hospitality spaces.",
+          "href": "/products/acoustic-pendant-lights"
+        },
+        {
+          "title": "Acoustic Linear Lights",
+          "text": "Linear pendant and acoustic baffle lighting for open offices and classrooms.",
+          "href": "/#products"
+        },
+        {
+          "title": "Acoustic Ceiling & Wall Lighting",
+          "text": "Ceiling and wall acoustic lighting systems for commercial interiors.",
+          "href": "/#products"
+        }
+      ],
+      "featureLabel": "Main Products",
+      "featureLinks": [
+        {
+          "title": "TR-XYM-0137 Ring Family",
+          "href": "/products/acoustic-pendant-lights/tr-xym-0137-ring-family"
+        },
+        {
+          "title": "PET Felt Acoustic Pendant Lamps",
+          "href": "/products/acoustic-pendant-lights"
+        },
+        {
+          "title": "Custom Acoustic Lighting Solutions",
+          "href": "/#oem"
+        }
+      ]
+    },
+    "applications": {
+      "label": "Applications",
+      "introLabel": "Applications",
+      "introTitle": "Show buyers where acoustic lighting fits.",
+      "introText": "Application pages help architects, contractors and distributors evaluate project scenarios.",
+      "items": [
+        {
+          "title": "Office & Meeting Rooms",
+          "text": "Open office, meeting room and conference room acoustic lighting.",
+          "href": "/#applications"
+        },
+        {
+          "title": "Education Spaces",
+          "text": "Classrooms, auditoriums and shared learning environments.",
+          "href": "/#applications"
+        },
+        {
+          "title": "Restaurant & Hospitality",
+          "text": "Warm ambience plus sound comfort for restaurants, cafes and hotels.",
+          "href": "/#applications"
+        },
+        {
+          "title": "Commercial Interiors",
+          "text": "Retail, public spaces and project-based decorative lighting.",
+          "href": "/#applications"
+        }
+      ]
+    },
+    "company": {
+      "label": "Company",
+      "introLabel": "Company Pages",
+      "introTitle": "Trust pages aligned with your website structure.",
+      "introText": "Use these sections to prove company strength, factory capability and project delivery confidence.",
+      "items": [
+        {
+          "title": "About Us",
+          "text": "Company profile, team, history and B2B positioning.",
+          "href": "/#factory"
+        },
+        {
+          "title": "Factory",
+          "text": "Workshop, quality control, equipment, packaging and delivery.",
+          "href": "/#factory"
+        },
+        {
+          "title": "Projects",
+          "text": "Project applications before named customer cases are confirmed.",
+          "href": "/#applications"
+        },
+        {
+          "title": "Contact",
+          "text": "Inquiry form, email, WhatsApp and project requirements.",
+          "href": "/contact"
+        }
+      ]
+    },
+    "resources": {
+      "label": "Resources",
+      "introLabel": "SEO / Sales Assets",
+      "introTitle": "Content pages that support SEO, AI search and paid traffic.",
+      "introText": "Resource pages can expand into blog guides, catalog downloads and technical data as content is prepared.",
+      "items": [
+        {
+          "title": "FAQ",
+          "text": "Answer common importer and project buyer questions.",
+          "href": "/#faq"
+        },
+        {
+          "title": "Blog / SEO Articles",
+          "text": "Guides for acoustic lighting selection, materials and applications.",
+          "href": "/#faq"
+        },
+        {
+          "title": "Download Center",
+          "text": "Catalog, color card and specification documents.",
+          "href": "/contact"
+        },
+        {
+          "title": "Technical Data",
+          "text": "Material, customization, certificates and buyer type notes.",
+          "href": "/#solutions"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Custom PET Felt Acoustic Lighting manufacturer and OEM/ODM solution provider for global B2B projects.",
+    "productsTitle": "Products",
+    "productsLinks": [
+      {
+        "title": "Acoustic Pendant Lights",
+        "href": "/products/acoustic-pendant-lights"
+      },
+      {
+        "title": "Acoustic Linear Lights",
+        "href": "/#products"
+      },
+      {
+        "title": "Ceiling & Wall Lighting",
+        "href": "/#products"
+      },
+      {
+        "title": "Custom Acoustic Lighting",
+        "href": "/#oem"
+      }
+    ],
+    "companyTitle": "Company",
+    "companyLinks": [
+      {
+        "title": "Solutions",
+        "href": "/#solutions"
+      },
+      {
+        "title": "Applications",
+        "href": "/#applications"
+      },
+      {
+        "title": "Factory",
+        "href": "/#factory"
+      },
+      {
+        "title": "FAQ",
+        "href": "/#faq"
+      }
+    ],
+    "contactTitle": "Contact",
+    "contactName": "Alinna",
+    "salesOffice": "Sales Office: Ningbo, Zhejiang, China",
+    "manufacturingBase": "Manufacturing Base: Zhongshan, Guangdong, China"
+  },
+  "pages": {
+    "home": {
+      "seo": {
+        "title": "Custom PET Felt Acoustic Lighting Manufacturer | Acoustic Pendant Lights OEM/ODM | KingOrnan",
+        "description": "KingOrnan is a B2B manufacturer of Custom PET Felt Acoustic Lighting, Acoustic Pendant Lights and Acoustic Linear Lights, with OEM/ODM support for architects, distributors, importers and commercial lighting projects."
+      },
+      "hero": {
+        "eyebrow": "OEM / ODM Acoustic Lighting Manufacturer",
+        "title": "Custom PET Felt Acoustic Lighting for modern B2B projects.",
+        "lead": "KingOrnan integrates PET Felt acoustic materials with architectural LED lighting to help offices, hospitality spaces and commercial projects improve visual comfort, reduce noise and build a stronger design identity.",
+        "primaryCta": "Get an Acoustic Lighting Quote",
+        "secondaryCta": "View Product Range",
+        "proofAriaLabel": "Company highlights",
+        "proof": [
+          {
+            "value": "2012",
+            "label": "Founded"
+          },
+          {
+            "value": "OEM/ODM",
+            "label": "Custom Solution"
+          },
+          {
+            "value": "Global",
+            "label": "B2B Projects"
+          }
+        ],
+        "imageAlt": "Custom PET Felt Acoustic Lighting hero image for KingOrnan B2B projects",
+        "cards": [
+          {
+            "number": "01",
+            "title": "Acoustic Comfort",
+            "text": "PET Felt material for sound absorption and a softer room experience."
+          },
+          {
+            "number": "02",
+            "title": "Custom Design",
+            "text": "Shape, size, color, CCT, dimming and mounting options."
+          }
+        ]
+      },
+      "trustStrip": {
+        "ariaLabel": "B2B buyer segments",
+        "label": "B2B Buyer Fit",
+        "title": "Built for buyers who need design value, acoustic performance and stable supply.",
+        "cta": "Send project requirements",
+        "items": [
+          {
+            "number": "01",
+            "title": "Lighting importers",
+            "text": "Private-label ranges, samples, catalog support and repeat bulk supply."
+          },
+          {
+            "number": "02",
+            "title": "Acoustic panel brands",
+            "text": "Add lighting SKUs around PET Felt materials and acoustic project needs."
+          },
+          {
+            "number": "03",
+            "title": "Office furniture brands",
+            "text": "Complement workstation and meeting room solutions with acoustic lighting."
+          },
+          {
+            "number": "04",
+            "title": "Contractors & designers",
+            "text": "Custom size, color, CCT and dimming support for project specification."
+          },
+          {
+            "number": "05",
+            "title": "Building wholesalers",
+            "text": "Scalable product supply for commercial interiors and acoustic packages."
+          }
+        ]
+      },
+      "products": {
+        "eyebrow": "Product Categories",
+        "title": "Acoustic Lighting built for project specification and scalable supply.",
+        "text": "Start from standard acoustic pendant and linear designs, or work with our team to develop a private-label product line for your market.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Acoustic Pendant Lights",
+            "text": "PET Felt Acoustic Pendant Lights for offices, meeting rooms and hospitality spaces.",
+            "cta": "View pendant collection",
+            "href": "/products/acoustic-pendant-lights",
+            "image": "/assets/img/home/Acoustic Pendant Lights.webp",
+            "alt": "PET Felt Acoustic Pendant Lights for lounge and office spaces"
+          },
+          {
+            "number": "02",
+            "title": "Acoustic Linear Lights",
+            "text": "Linear acoustic baffle lighting for open offices, classrooms and public interiors.",
+            "cta": "Discuss linear lighting",
+            "href": "/contact",
+            "image": "/assets/img/home/Acoustic Linear Lights.webp",
+            "alt": "Acoustic Linear Lights for office project specification"
+          },
+          {
+            "number": "03",
+            "title": "Ceiling & Wall Acoustic Lighting",
+            "text": "Integrated lighting concepts for acoustic ceilings, walls and decorative interior systems.",
+            "cta": "Share your project idea",
+            "href": "/contact",
+            "image": "/assets/img/home/Wall Acoustic Lights.webp",
+            "alt": "Blue PET Felt acoustic ceiling lighting for open office interiors"
+          },
+          {
+            "number": "04",
+            "title": "Acoustic Floor Lamps",
+            "text": "Freestanding PET Felt acoustic lighting for lounges, reception areas and flexible workspaces.",
+            "cta": "Ask for floor lamp options",
+            "href": "/contact",
+            "image": "/assets/img/home/Acoustic Floor Lamps.webp",
+            "alt": "PET Felt acoustic floor lamp for office lounge and hospitality interiors"
+          }
+        ],
+        "accent": {
+          "number": "OEM",
+          "title": "Custom Acoustic Lamp Design",
+          "text": "Develop your own sizes, colors, shapes, wattage, CCT, dimming, logo and packaging.",
+          "cta": "See OEM/ODM process"
+        }
+      },
+      "solutions": {
+        "eyebrow": "Why Acoustic Lighting",
+        "title": "One product solves two project needs: light quality and acoustic comfort.",
+        "text": "In commercial interiors, lighting cannot only look good. It must support concentration, communication and brand atmosphere. PET Felt Acoustic Lighting combines sound-absorbing surfaces with comfortable illumination.",
+        "benefits": [
+          {
+            "number": "01",
+            "title": "Noise control",
+            "text": "Helps reduce room echo and improve speech comfort in busy interiors."
+          },
+          {
+            "number": "02",
+            "title": "Visual comfort",
+            "text": "Architectural LED design with warm, calm and professional lighting effects."
+          },
+          {
+            "number": "03",
+            "title": "Design flexibility",
+            "text": "Custom shapes, felt colors and mounting solutions for different design concepts."
+          },
+          {
+            "number": "04",
+            "title": "B2B supply support",
+            "text": "Project quotation, sampling, quality control, packaging and bulk delivery support."
+          }
+        ],
+        "imageAlt": "PET Felt acoustic baffle lighting installed above open office workstations",
+        "metricTitle": "Project-ready",
+        "metricText": "For offices, education, hospitality, commercial interiors and public spaces."
+      },
+      "applications": {
+        "eyebrow": "Applications",
+        "title": "Designed for spaces where people need to hear better and feel better.",
+        "items": [
+          {
+            "title": "Office & Meeting Rooms",
+            "alt": "Office acoustic lighting with blue PET Felt pendant fixtures"
+          },
+          {
+            "title": "Education Spaces",
+            "alt": "Education hall with Custom PET Felt Acoustic Pendant Lights"
+          },
+          {
+            "title": "Restaurant & Hospitality",
+            "alt": "Restaurant and hospitality acoustic pendant lighting application"
+          },
+          {
+            "title": "Commercial Interiors",
+            "alt": "Commercial interior with large PET Felt Acoustic Pendant Lighting"
+          }
+        ]
+      },
+      "oem": {
+        "eyebrow": "OEM/ODM Capability",
+        "title": "From concept to sample, from sample to stable bulk production.",
+        "text": "KingOrnan supports acoustic lighting brands, distributors and project buyers who need differentiated products instead of standard catalog items only.",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Requirement",
+            "text": "Share target product, space, size, quantity, certification market and budget range."
+          },
+          {
+            "number": "02",
+            "title": "Design Proposal",
+            "text": "We confirm structure, PET Felt color, LED specification, dimming and installation method."
+          },
+          {
+            "number": "03",
+            "title": "Sample & Testing",
+            "text": "Prototype for appearance, light effect, installation and electrical performance confirmation."
+          },
+          {
+            "number": "04",
+            "title": "Production & Delivery",
+            "text": "Quality control, packaging, labeling, bulk order management and global logistics support."
+          }
+        ],
+        "tags": ["Size", "Shape", "Felt Color", "Wattage", "CCT", "Dimming", "Mounting", "Logo", "Packaging"]
+      },
+      "specs": {
+        "eyebrow": "Material",
+        "title": "PET Felt material, soft texture, architectural appearance.",
+        "text": "The acoustic surface creates a warm visual language for premium interiors while supporting sound absorption requirements in open and shared spaces.",
+        "ariaLabel": "Customization options",
+        "rows": [
+          {
+            "label": "Product Type",
+            "value": "Acoustic pendant / linear / ceiling / wall lighting"
+          },
+          {
+            "label": "Material",
+            "value": "PET Felt acoustic material + LED lighting system"
+          },
+          {
+            "label": "Customization",
+            "value": "Size, shape, color, wattage, CCT, dimming, mounting, logo, packaging"
+          },
+          {
+            "label": "Certification",
+            "value": "CE available; other certificates can be discussed by target market"
+          },
+          {
+            "label": "Buyer Type",
+            "value": "Importers, distributors, acoustic brands, contractors, designers"
+          }
+        ]
+      },
+      "factory": {
+        "eyebrow": "Manufacturing & Supply",
+        "title": "Experienced LED manufacturing with acoustic product development support.",
+        "text": "We combine LED lighting manufacturing experience with custom acoustic material development, helping B2B customers move from idea to stable supply faster.",
+        "checklist": [
+          "Sales office in Ningbo, Zhejiang, China",
+          "Manufacturing base in Zhongshan, Guangdong, China",
+          "Quality control for sampling, production and packaging",
+          "Support for private label and project-based requirements"
+        ],
+        "images": [
+          {
+            "src": "/assets/img/home/factory-main.webp",
+            "alt": "KingOrnan manufacturing workshop for lighting production and project supply"
+          },
+          {
+            "src": "/assets/img/home/factory-production.webp",
+            "alt": "KingOrnan factory production detail for lighting assembly"
+          },
+          {
+            "src": "/assets/img/home/factory-warehouse.webp",
+            "alt": "KingOrnan workshop and warehouse preparation for bulk lighting orders"
+          }
+        ]
+      },
+      "faq": {
+        "eyebrow": "FAQ",
+        "title": "Common questions from importers, distributors and project buyers.",
+        "text": "Use this section to reduce repeated communication and guide visitors toward a qualified inquiry.",
+        "items": [
+          {
+            "question": "Can you make custom PET Felt Acoustic Lights?",
+            "answer": "Yes. We support OEM/ODM customization for size, shape, PET Felt color, wattage, CCT, dimming, mounting accessories, logo and packaging."
+          },
+          {
+            "question": "What buyer types do you mainly serve?",
+            "answer": "Lighting importers, distributors, acoustic panel brands, office furniture brands, building material wholesalers, contractors, designers, architects and acoustic consultants."
+          },
+          {
+            "question": "Can you provide samples before bulk orders?",
+            "answer": "Yes. For custom projects, we recommend sample confirmation before mass production so the appearance, light effect, mounting method and packaging can be checked."
+          },
+          {
+            "question": "Can you support certificates for different markets?",
+            "answer": "CE is available, and certificate requirements for specific target markets can be discussed according to product specification and order plan. Do not list certificates before confirmation."
+          }
+        ]
+      },
+      "contact": {
+        "eyebrow": "Start Your Project",
+        "title": "Tell us your acoustic lighting requirement.",
+        "text": "Send your target product, project type, size, quantity, country and certification requirements. Our sales team will help confirm a suitable solution.",
+        "form": {
+          "name": "Name",
+          "email": "Email",
+          "company": "Company",
+          "country": "Country",
+          "message": "Message",
+          "submit": "Submit Project Inquiry",
+          "productRequirement": "Product Requirement",
+          "downloadCatalog": "Download Catalog",
+          "placeholders": {
+            "name": "Your name",
+            "email": "name@company.com",
+            "country": "Your country / market",
+            "message": "Tell us product size, quantity, project type, CCT, dimming, certificate or packaging needs."
+          },
+          "options": [
+            "Acoustic Pendant Lights",
+            "Acoustic Linear Lights",
+            "Acoustic Ceiling & Wall Lighting",
+            "Custom Acoustic Lighting"
+          ],
+          "note": "Thank you. Our sales team will contact you soon."
+        }
+      }
+    },
+    "contact": {
+      "seo": {
+        "title": "Contact KingOrnan | Acoustic Lighting Quote, OEM/ODM Support and Catalog Requests",
+        "description": "Contact KingOrnan for Acoustic Lighting quotations, OEM/ODM development, catalog requests and project support for Acoustic Pendant Lights, Acoustic Linear Lights and commercial lighting projects."
+      },
+      "hero": {
+        "eyebrow": "Contact KingOrnan",
+        "title": "Connect with us for acoustic lighting project support.",
+        "text": "Tell us your product requirement, project market, target quantity and customization needs. Our sales team will help confirm a suitable acoustic lighting solution.",
+        "primaryCta": "Send Inquiry",
+        "secondaryCta": "WhatsApp Sales"
+      },
+      "formIntro": {
+        "label": "Project Inquiry",
+        "title": "Your message will be replied to within one business day."
+      },
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "company": "Company",
+        "country": "Country",
+        "productInterest": "Product Interest",
+        "quantity": "Quantity",
+        "message": "Message",
+        "submit": "Submit",
+        "downloadCatalog": "Download Catalog",
+        "placeholders": {
+          "name": "Your name",
+          "email": "name@company.com",
+          "company": "Company name",
+          "country": "Your country / market",
+          "quantity": "Estimated quantity",
+          "message": "Tell us product type, size, color, wattage, CCT, dimming, certification market and project schedule."
+        },
+        "options": [
+          "Acoustic Pendant Lights",
+          "Acoustic Linear Lights",
+          "Acoustic Ceiling & Wall Lighting",
+          "OEM/ODM Acoustic Lighting",
+          "Catalog / Parameter Sheet"
+        ],
+        "note": "After submitting, your email client may open to send the inquiry to sales@kingornan.com."
+      },
+      "cardsSection": {
+        "eyebrow": "More Ways to Connect",
+        "title": "Reach the KingOrnan team directly.",
+        "text": "Use the fastest channel for your project stage, from catalog request to quotation and sample discussion.",
+        "cards": [
+          {
+            "label": "E-mail",
+            "value": "sales@kingornan.com",
+            "href": "mailto:sales@kingornan.com?subject=Acoustic%20Lighting%20Project%20Inquiry"
+          },
+          {
+            "label": "Phone / WhatsApp",
+            "value": "+86 15888067484",
+            "href": "https://wa.me/8615888067484"
+          },
+          {
+            "label": "Response time",
+            "value": "Within one business day",
+            "href": "#contact-form"
+          }
+        ]
+      },
+      "addressSection": {
+        "eyebrow": "Office & Factory",
+        "title": "Sales support in Ningbo, manufacturing base in Zhongshan.",
+        "text": "KingOrnan supports overseas importers, distributors, contractors and designers with Custom PET Felt Acoustic Lighting, sample confirmation and stable bulk supply.",
+        "addresses": [
+          {
+            "title": "Sales Office",
+            "lines": [
+              "Room 1207, HuiDing Building",
+              "Yinzhou Southern Business District",
+              "Ningbo City, Zhejiang Province, China"
+            ]
+          },
+          {
+            "title": "Factory Address",
+            "lines": [
+              "Weipai Industry Park",
+              "Henglan, Zhongshan City",
+              "Guangdong Province, China"
+            ]
+          },
+          {
+            "title": "Factory Address",
+            "lines": [
+              "No. 27 North Huanzhen Road",
+              "Henglan, Zhongshan City",
+              "Guangdong Province, China"
+            ]
+          }
+        ]
+      },
+      "ctaSection": {
+        "eyebrow": "Ready to illuminate your next project?",
+        "title": "Contact our sales team today to get a competitive quotation.",
+        "cta": "Request a Quote Now"
+      }
+    },
+    "collection": {
+      "seo": {
+        "title": "Acoustic Pendant Lights Manufacturer | PET Felt Acoustic Pendant Lights for B2B Projects",
+        "description": "Source Acoustic Pendant Lights from KingOrnan, including PET Felt Acoustic Lighting for offices, hospitality, education and commercial interiors with OEM/ODM customization."
+      },
+      "hero": {
+        "eyebrow": "Acoustic Pendant Lights",
+        "title": "PET Felt pendant lights for quieter, warmer project interiors.",
+        "text": "KingOrnan supplies Acoustic Pendant Lights for offices, hospitality, education and commercial projects, combining PET Felt sound absorption with architectural LED lighting and OEM/ODM customization.",
+        "primaryCta": "Request Pendant Quote",
+        "secondaryCta": "View Product Families",
+        "proof": ["OEM/ODM", "3000K / 4000K / 6000K", "Non-dim / 1-10V / DALI", "Custom colors and sizes"],
+        "images": [
+          {
+            "src": "/assets/img/pendant/image533.jpeg",
+            "alt": "Acoustic Pendant Lights in a lounge interior",
+            "className": "hero-tile tall"
+          },
+          {
+            "src": "/assets/img/pendant/image535.jpeg",
+            "alt": "Red ribbed acoustic pendant light"
+          },
+          {
+            "src": "/assets/img/pendant/image619.jpeg",
+            "alt": "Green ribbed acoustic pendant light"
+          },
+          {
+            "src": "/assets/img/pendant/image571.png",
+            "alt": "Acoustic Pendant Lighting applications collage",
+            "className": "hero-tile wide"
+          }
+        ]
+      },
+      "summary": [
+        {
+          "number": "01",
+          "title": "Acoustic comfort",
+          "text": "PET Felt panels help absorb sound and reduce harsh reflections in shared interiors."
+        },
+        {
+          "number": "02",
+          "title": "Lighting performance",
+          "text": "Diffuser, microprismatic, honeycomb, lens and reflector options for different effects."
+        },
+        {
+          "number": "03",
+          "title": "Project supply",
+          "text": "Support for samples, color matching, packaging, private label and bulk order delivery."
+        }
+      ],
+      "families": {
+        "eyebrow": "Product Families",
+        "title": "Choose a pendant form, then customize size, color, light and mounting.",
+        "text": "The collection follows the product range from the acoustic lighting catalog: ring, drum, petal, cone, linear and dome pendant families for different project scenes.",
+        "tagsAriaLabel": "Product family tags",
+        "tags": ["Ring", "Drum", "Cone", "Linear", "Dome", "Decorative", "OEM/ODM"],
+        "products": [
+          {
+            "name": "Ribbed Acoustic Ring Pendant",
+            "model": "TR-XYM-0137 / ring family",
+            "image": "/assets/img/pendant/image532.jpeg",
+            "tag": "Ring pendant",
+            "text": "A sculptural PET Felt ring pendant for lounges, meeting rooms and hospitality spaces.",
+            "specs": ["560 x 280 mm / 800 x 240 mm", "30W / 50W options", "Diffuser or microprismatic diffuser"],
+            "href": "/products/acoustic-pendant-lights/tr-xym-0137-ring-family",
+            "cta": "Ask for details"
+          },
+          {
+            "name": "Slatted Drum Acoustic Pendant",
+            "model": "TR-XYM-0185 / drum family",
+            "image": "/assets/img/pendant/image544.jpeg",
+            "tag": "Drum pendant",
+            "text": "Vertical Felt ribs soften glare and add a warm acoustic surface above tables and collaborative areas.",
+            "specs": ["Felt rib structure", "3000K / 4000K / 6000K", "Custom color options"],
+            "cta": "Ask for details"
+          },
+          {
+            "name": "Petal Felt Pendant Lamp",
+            "model": "TR-XYM-0127 / petal family",
+            "image": "/assets/img/pendant/image594.jpeg",
+            "tag": "Decorative pendant",
+            "text": "Layered petal geometry creates a softer decorative language for restaurants, cafes and reception zones.",
+            "specs": ["E27 or LED versions", "Acoustic Felt body", "Custom diameter and color"],
+            "cta": "Ask for details"
+          },
+          {
+            "name": "Cone Acoustic Pendant",
+            "model": "TR-XYM-0048 / cone family",
+            "image": "/assets/img/pendant/image638.jpeg",
+            "tag": "Cone pendant",
+            "text": "Compact cone forms support private-label pendant ranges for dining, breakout and informal meeting spaces.",
+            "specs": ["Multiple shade heights", "Non-dim / 1-10V / DALI", "PET Felt or fabric finish"],
+            "cta": "Ask for details"
+          },
+          {
+            "name": "Linear Acoustic Pendant Light",
+            "model": "TR-XYM-0085 / linear family",
+            "image": "/assets/img/pendant/image80.jpeg",
+            "tag": "Linear pendant",
+            "text": "Long-form acoustic lighting for conference tables, open offices and classroom work zones.",
+            "specs": ["1000-3000 mm lengths", "30-60W options", "Lens, diffuser or honeycomb optics"],
+            "cta": "Ask for details"
+          },
+          {
+            "name": "Dome Felt Pendant Light",
+            "model": "TR-XYM-0121 / dome family",
+            "image": "/assets/img/pendant/image729.jpeg",
+            "tag": "Dome pendant",
+            "text": "A clean dome pendant for offices and hospitality interiors needing soft light plus sound comfort.",
+            "specs": ["E27 or integrated LED", "IP20 indoor use", "Project color matching"],
+            "cta": "Ask for details"
+          }
+        ]
+      },
+      "specs": {
+        "eyebrow": "Specification Range",
+        "title": "Built around project requirements, not one fixed SKU.",
+        "text": "Use these as starting specifications for inquiry qualification. Final size, wattage, color and certificate requirements should be confirmed against project drawings and target market.",
+        "ariaLabel": "Acoustic Pendant Light specification range",
+        "rows": [
+          {
+            "label": "Materials",
+            "value": "PET Felt acoustic material, aluminum, carbon steel, optional PMMA / fabric details"
+          },
+          {
+            "label": "Light Source",
+            "value": "Integrated LED or E27 options depending on pendant family"
+          },
+          {
+            "label": "CCT",
+            "value": "3000K / 4000K / 6000K"
+          },
+          {
+            "label": "Dimming",
+            "value": "Non-dim / 1-10V / DALI options"
+          },
+          {
+            "label": "Optics",
+            "value": "Diffuser panel, microprismatic diffuser, honeycomb, lens, reflector cup"
+          },
+          {
+            "label": "Indoor Rating",
+            "value": "IP20, CRI greater than 90 for selected LED models"
+          },
+          {
+            "label": "Customization",
+            "value": "Size, shape, Felt color, wattage, CCT, dimming, cable, logo and packaging"
+          }
+        ]
+      },
+      "applications": {
+        "eyebrow": "Applications",
+        "title": "Designed for spaces where sound comfort and visual warmth matter together.",
+        "items": [
+          {
+            "title": "Office & Meeting Rooms",
+            "image": "/assets/img/pendant/image699.jpeg",
+            "text": "Reduce echo above workstations, meeting tables and focus zones while keeping the ceiling visually clean."
+          },
+          {
+            "title": "Restaurant & Hospitality",
+            "image": "/assets/img/pendant/image573.jpeg",
+            "text": "Create warmer dining atmospheres with acoustic Felt surfaces, soft illumination and decorative forms."
+          },
+          {
+            "title": "Education & Shared Spaces",
+            "image": "/assets/img/pendant/image572.png",
+            "text": "Support speech comfort in classrooms, libraries, studios and collaborative learning environments."
+          }
+        ]
+      },
+      "custom": {
+        "eyebrow": "OEM/ODM Pendant Development",
+        "title": "Develop private-label acoustic pendant lighting from concept to sample.",
+        "text": "Share your target product form, room type, dimensions, color palette, quantity and market requirements. KingOrnan can support project quotation, sample development, packaging and repeat supply.",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Brief",
+            "text": "Product type, space, size, quantity, target market and budget."
+          },
+          {
+            "number": "02",
+            "title": "Specification",
+            "text": "Felt color, wattage, CCT, dimming, mounting and optics."
+          },
+          {
+            "number": "03",
+            "title": "Sample",
+            "text": "Prototype for appearance, light effect and installation confirmation."
+          },
+          {
+            "number": "04",
+            "title": "Supply",
+            "text": "Quality control, packaging, labeling and global delivery support."
+          }
+        ]
+      },
+      "contact": {
+        "eyebrow": "Get Product Support",
+        "title": "Request acoustic pendant light catalog, sample or quotation.",
+        "text": "Send your project type, preferred pendant family, size, quantity, color, CCT, dimming and certification market.",
+        "form": {
+          "name": "Name",
+          "email": "Email",
+          "country": "Country",
+          "message": "Message",
+          "productFamily": "Product Family",
+          "submit": "Submit Pendant Inquiry",
+          "placeholders": {
+            "name": "Your name",
+            "email": "name@company.com",
+            "country": "Your country / market",
+            "message": "Tell us size, quantity, CCT, dimming, Felt color, market and project schedule."
+          },
+          "options": [
+            "Ribbed Acoustic Ring Pendant",
+            "Slatted Drum Acoustic Pendant",
+            "Petal Felt Pendant Lamp",
+            "Cone Acoustic Pendant",
+            "Linear Acoustic Pendant Light",
+            "Custom OEM/ODM Pendant"
+          ],
+          "note": "Thank you. Our sales team will contact you soon."
+        }
+      }
+    },
+    "productDetail": {
+      "seo": {
+        "title": "TR-XYM-0137 Acoustic Ring Pendant Light | PET Felt Acoustic Lighting Supplier",
+        "description": "Review TR-XYM-0137 Acoustic Ring Pendant Light specifications from KingOrnan, including PET Felt Acoustic Lighting options, OEM/ODM customization and B2B quotation support."
+      },
+      "breadcrumb": "Acoustic Pendant Lights",
+      "code": "TR-XYM-0137 / Ring Family",
+      "title": "Acoustic Ring Pendant Light",
+      "text": "PET Felt Acoustic Pendant Light with integrated LED illumination for offices, meeting rooms, hospitality interiors and commercial project supply.",
+      "primaryCta": "Request Quote",
+      "secondaryCta": "Technical Data",
+      "quickSpecsAriaLabel": "Key specifications",
+      "quickSpecs": [
+        {
+          "label": "Sizes",
+          "value": "560 x 280 mm / 800 x 240 mm"
+        },
+        {
+          "label": "Power",
+          "value": "30W / 50W"
+        },
+        {
+          "label": "CCT",
+          "value": "3000K / 4000K / 6000K"
+        },
+        {
+          "label": "Dimming",
+          "value": "Non-dim / 1-10V / DALI"
+        }
+      ],
+      "heroImageAlt": "TR-XYM-0137 acoustic ring pendant light",
+      "lineDrawingAlt": "TR-XYM-0137 acoustic ring pendant line drawing",
+      "overview": {
+        "title": "Product Overview",
+        "paragraphs": [
+          "TR-XYM-0137 is designed as a clean circular acoustic lighting form for project interiors. The PET Felt body helps soften the visual appearance of the fixture while contributing acoustic comfort around desks, tables and lounge areas.",
+          "The product can be specified with diffuser panel or microprismatic diffuser optics, multiple color temperatures, dimming options and Felt colors for OEM or project orders."
+        ]
+      },
+      "technical": {
+        "title": "Technical Information",
+        "text": "Core data for quotation and project discussion.",
+        "rows": [
+          {
+            "label": "Model",
+            "value": "TR-XYM-0137 / Ring Family"
+          },
+          {
+            "label": "Product type",
+            "value": "PET Felt acoustic ring pendant"
+          },
+          {
+            "label": "Size",
+            "value": "560 x 280 mm / 800 x 240 mm"
+          },
+          {
+            "label": "Power",
+            "value": "30W / 50W"
+          },
+          {
+            "label": "Color temperature",
+            "value": "3000K / 4000K / 6000K"
+          },
+          {
+            "label": "Dimming",
+            "value": "Non-dim / 1-10V / DALI"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum + acoustic PET Felt"
+          },
+          {
+            "label": "Optics",
+            "value": "Diffuser panel / microprismatic diffuser"
+          },
+          {
+            "label": "Indoor rating",
+            "value": "IP20"
+          },
+          {
+            "label": "CRI",
+            "value": ">90 for selected LED configuration"
+          },
+          {
+            "label": "Customization",
+            "value": "Felt color, diameter, suspension, wattage, CCT, dimming, logo and packaging"
+          }
+        ]
+      },
+      "options": {
+        "title": "Options",
+        "items": [
+          "PET Felt color selection",
+          "Diffuser panel or microprismatic diffuser",
+          "Suspension height and ceiling canopy options",
+          "OEM label and packaging support"
+        ]
+      },
+      "quote": {
+        "title": "Request Product Details",
+        "text": "Send size, quantity, color, CCT, dimming and destination market. Our team will confirm configuration and quotation details.",
+        "primaryCta": "Email Sales",
+        "secondaryCta": "WhatsApp: +86 15888067484"
+      }
+    }
+  }
+}
