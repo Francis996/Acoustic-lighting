@@ -1,21 +1,18 @@
 import { AboutPage } from "../../components/pages/AboutPage";
-import { getMessages } from "../../i18n/messages";
-import { createMetadata } from "../../i18n/routing";
+import content from "../../content/siteContent.json";
+import { createPageMetadata } from "../../lib/metadata";
 
 const pathname = "/about";
 
-export async function generateMetadata() {
-  const messages = await getMessages("en");
-  return createMetadata({
-    locale: "en",
+export function generateMetadata() {
+  return createPageMetadata({
     pathname,
-    title: messages.pages.about.seo.title,
-    description: messages.pages.about.seo.description,
-    images: [{ url: "https://www.kingornan.com/assets/img/company/alinna.png" }]
+    title: content.pages.about.seo.title,
+    description: content.pages.about.seo.description,
+    images: [{ url: "/assets/img/company/alinna.png" }]
   });
 }
 
-export default async function Page() {
-  const messages = await getMessages("en");
-  return <AboutPage locale="en" messages={messages} currentPath={pathname} />;
+export default function Page() {
+  return <AboutPage content={content} />;
 }

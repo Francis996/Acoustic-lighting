@@ -2,14 +2,16 @@
 
 import { SiteFooter } from "../SiteFooter";
 import { SiteHeader } from "../SiteHeader";
-import { InquiryHiddenFields, inquiryAction, inquiryEmail, mailtoHref } from "../inquiryConfig";
+import { MaterialColorSection } from "../MaterialColorSection";
+import { InlineContactCta } from "../InlineContactCta";
+import { InquiryHiddenFields, PhoneWhatsAppField, inquiryAction, inquiryEmail, mailtoHref } from "../inquiryConfig";
 
-export function CollectionPage({ locale, messages, currentPath }) {
-  const page = messages.pages.collection;
+export function CollectionPage({ content }) {
+  const page = content.pages.collection;
 
   return (
     <>
-      <SiteHeader locale={locale} currentPath={currentPath} messages={messages} ctaHref="#quote" />
+      <SiteHeader content={content} ctaHref="#quote" />
       <main className="collection-page">
         <section className="collection-hero section-dark">
           <div className="hero-bg"></div>
@@ -19,7 +21,7 @@ export function CollectionPage({ locale, messages, currentPath }) {
               <h1>{page.hero.title}</h1>
               <p>{page.hero.text}</p>
               <div className="collection-actions">
-                <a className="btn primary" href="#quote">{page.hero.primaryCta}</a>
+                <a className="btn primary" href="#quote" data-contact-popup>{page.hero.primaryCta}</a>
                 <a className="btn glass" href="#collection">{page.hero.secondaryCta}</a>
               </div>
               <div className="collection-proof">
@@ -68,11 +70,17 @@ export function CollectionPage({ locale, messages, currentPath }) {
                     <ul>
                       {product.specs.map((spec) => <li key={spec}>{spec}</li>)}
                     </ul>
-                    <a href={product.href || "#quote"}>{product.cta}</a>
+                    <a className="model-detail-link" href={product.href || "#quote"}>{product.href ? "View product details" : product.cta}</a>
                   </div>
                 </article>
               ))}
             </div>
+            <InlineContactCta
+              eyebrow="Pendant Model Check"
+              title="Comparing pendant models for one project?"
+              text="Send the model codes, room size, quantity and color preference so we can prepare a focused quotation."
+              cta="Ask for pendant pricing"
+            />
           </div>
         </section>
 
@@ -104,12 +112,21 @@ export function CollectionPage({ locale, messages, currentPath }) {
                   <div>
                     <strong>{item.title}</strong>
                     <span>{item.text}</span>
+                    <a className="application-card-link" href={item.href}>View application</a>
                   </div>
                 </article>
               ))}
             </div>
+            <InlineContactCta
+              eyebrow="Application Fit"
+              title="Need pendant lighting advice for a specific interior?"
+              text="Share the application type and ceiling height. Sales can suggest the best pendant family before sampling."
+              cta="Discuss application"
+            />
           </div>
         </section>
+
+        <MaterialColorSection text="Pendant acoustic lights can be specified with PET felt and fabric color series to coordinate with ceilings, furniture and brand palettes. Confirm the final color number together with model size, CCT and dimming requirements." />
 
         <section className="section custom-section section-dark" id="custom">
           <div className="wrap custom-grid">
@@ -142,6 +159,7 @@ export function CollectionPage({ locale, messages, currentPath }) {
               <InquiryHiddenFields subject="Acoustic Pendant Light Inquiry" />
               <label>{page.contact.form.name}<input type="text" name="Name" placeholder={page.contact.form.placeholders.name} required /></label>
               <label>{page.contact.form.email}<input type="email" name="Email" placeholder={page.contact.form.placeholders.email} required /></label>
+              <PhoneWhatsAppField />
               <label>{page.contact.form.country}<input type="text" name="Country" placeholder={page.contact.form.placeholders.country} /></label>
               <label>
                 {page.contact.form.productFamily}
@@ -156,7 +174,7 @@ export function CollectionPage({ locale, messages, currentPath }) {
           </div>
         </section>
       </main>
-      <SiteFooter locale={locale} messages={messages} />
+      <SiteFooter content={content} />
     </>
   );
 }

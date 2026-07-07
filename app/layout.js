@@ -1,18 +1,18 @@
-import { headers } from "next/headers";
 import "./globals.css";
+import { ContactPopup } from "../components/ContactPopup";
 
 export const metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://floseek.com"),
   robots: "index,follow"
 };
 
-export default async function RootLayout({ children }) {
-  const requestHeaders = await headers();
-  const locale = requestHeaders.get("x-locale") || "en";
-  const direction = requestHeaders.get("x-dir") || "ltr";
-
+export default function RootLayout({ children }) {
   return (
-    <html lang={locale} dir={direction}>
-      <body>{children}</body>
+    <html lang="en">
+      <body>
+        {children}
+        <ContactPopup />
+      </body>
     </html>
   );
 }

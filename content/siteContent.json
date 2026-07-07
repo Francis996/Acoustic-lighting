@@ -1,0 +1,1761 @@
+{
+  "common": {
+    "logoAlt": "FLOSEEK logo",
+    "brandAriaLabel": "FLOSEEK home",
+    "whatsappAriaLabel": "Contact FLOSEEK on WhatsApp",
+    "getQuote": "Get a Quote",
+    "downloadCatalog": "Download Catalog"
+  },
+  "navigation": {
+    "ariaLabel": "Main navigation",
+    "openNavigation": "Open navigation",
+    "home": "Home",
+    "products": {
+      "label": "Products",
+      "introLabel": "Product Range",
+      "introTitle": "PET Felt Acoustic Lighting built for B2B project supply.",
+      "introText": "Explore acoustic pendant, linear, baffle, ceiling and wall lighting for commercial interiors.",
+      "introCta": "View all products",
+      "introHref": "/products",
+      "items": [
+        {
+          "title": "Acoustic Pendant Lights",
+          "text": "PET Felt Acoustic Pendant Lights for offices, meeting rooms and hospitality spaces.",
+          "href": "/products/acoustic-pendant-lights"
+        },
+        {
+          "title": "Acoustic Linear Lights",
+          "text": "Linear pendant and acoustic baffle lighting for open offices and classrooms.",
+          "href": "/products/acoustic-linear-lights"
+        },
+        {
+          "title": "Acoustic Ceiling & Wall Lighting",
+          "text": "Ceiling and wall acoustic lighting systems for commercial interiors.",
+          "href": "/products/acoustic-ceiling-wall-lighting"
+        },
+        {
+          "title": "Acoustic Floor Lamps",
+          "text": "Freestanding PET felt acoustic lamps for lounges, breakout areas and flexible workspaces.",
+          "href": "/products/acoustic-floor-lamps"
+        }
+      ],
+      "featureLabel": "Main Products",
+      "featureLinks": [
+        {
+          "title": "KO-XYM-0024 Ring Pendant",
+          "href": "/products/acoustic-pendant-lights/ko-xym-0024-ring-family",
+          "image": "/assets/img/products/ko-xym-0024/ko-xym-0024-product-main-ai-redraw-1600x1200.webp"
+        },
+        {
+          "title": "KO-XYM-0137 Ring Family",
+          "href": "/products/acoustic-pendant-lights/ko-xym-0137-ring-family",
+          "image": "/assets/img/products/ko-xym-0137/ko-xym-0137-product-main-ai-redraw-1600x1200.webp"
+        },
+        {
+          "title": "KO-XYM-0185 Drum Pendant",
+          "href": "/products/acoustic-pendant-lights/ko-xym-0185-drum-pendant",
+          "image": "/assets/img/products/ko-xym-0185/ko-xym-0185-product-main-ai-redraw-1600x1200.webp"
+        }
+      ],
+      "customLink": {
+        "title": "Custom Acoustic Lighting Solutions",
+        "href": "/custom-acoustic-lighting-solutions",
+        "image": "/assets/img/home/hero-acoustic-pendant.webp"
+      }
+    },
+    "applications": {
+      "label": "Applications",
+      "introLabel": "Applications",
+      "introTitle": "Acoustic lighting for real commercial spaces.",
+      "introText": "Explore where PET Felt Acoustic Lighting improves both visual atmosphere and room comfort.",
+      "items": [
+        {
+          "title": "Office & Meeting Rooms",
+          "text": "Open office, meeting room and conference room acoustic lighting.",
+          "href": "/applications/office-meeting-rooms"
+        },
+        {
+          "title": "Education Spaces",
+          "text": "Classrooms, auditoriums and shared learning environments.",
+          "href": "/applications/education-spaces"
+        },
+        {
+          "title": "Restaurant & Hospitality",
+          "text": "Warm ambience plus sound comfort for restaurants, cafes and hotels.",
+          "href": "/applications/restaurant-hospitality"
+        },
+        {
+          "title": "Commercial Interiors",
+          "text": "Retail, public spaces and project-based decorative lighting.",
+          "href": "/applications/commercial-interiors"
+        }
+      ]
+    },
+    "company": {
+      "label": "Company",
+      "introLabel": "Company",
+      "introTitle": "A manufacturing partner for custom acoustic lighting.",
+      "introText": "Learn how FLOSEEK supports OEM/ODM projects, stable production and export-ready delivery.",
+      "items": [
+        {
+          "title": "About Us",
+          "text": "Our background, product focus and acoustic lighting manufacturing experience.",
+          "href": "/about"
+        },
+        {
+          "title": "Projects",
+          "text": "Acoustic lighting solutions for offices, schools, hospitality and commercial interiors.",
+          "href": "/projects"
+        },
+        {
+          "title": "Contact",
+          "text": "Send drawings, quantities or target specifications for a fast project reply.",
+          "href": "/contact"
+        }
+      ]
+    },
+    "resources": {
+      "label": "Resources",
+      "introLabel": "Resources",
+      "introTitle": "Product information for project evaluation.",
+      "introText": "Find answers, catalog support and technical details before starting an acoustic lighting inquiry.",
+      "items": [
+        {
+          "title": "FAQ",
+          "text": "Common questions about customization, samples, lead time and export supply.",
+          "href": "/faq"
+        },
+        {
+          "title": "Blog",
+          "text": "Guides for choosing acoustic lighting shapes, sizes, colors and project specifications.",
+          "href": "/blog"
+        },
+        {
+          "title": "Download Center",
+          "text": "Request catalogs, color cards, product specifications and project references.",
+          "href": "/contact"
+        },
+        {
+          "title": "News",
+          "text": "Industry news for lighting, acoustics and interior design project buyers.",
+          "href": "/news"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "FLOSEEK is a high-end acoustic lighting sub-brand focused on custom PET Felt lighting for global B2B projects.",
+    "productsTitle": "Products",
+    "productsLinks": [
+      {
+        "title": "Acoustic Pendant Lights",
+        "href": "/products/acoustic-pendant-lights"
+      },
+      {
+        "title": "Acoustic Linear Lights",
+        "href": "/products/acoustic-linear-lights"
+      },
+      {
+        "title": "Ceiling & Wall Lighting",
+        "href": "/products/acoustic-ceiling-wall-lighting"
+      },
+      {
+        "title": "Acoustic Floor Lamps",
+        "href": "/products/acoustic-floor-lamps"
+      },
+      {
+        "title": "Custom Acoustic Lighting",
+        "href": "/custom-acoustic-lighting-solutions"
+      }
+    ],
+    "companyTitle": "Company",
+    "companyLinks": [
+      {
+        "title": "About Us",
+        "href": "/about"
+      },
+      {
+        "title": "Solutions",
+        "href": "/#solutions"
+      },
+      {
+        "title": "Applications",
+        "href": "/#applications"
+      },
+      {
+        "title": "Factory",
+        "href": "/#factory"
+      },
+      {
+        "title": "FAQ",
+        "href": "/faq"
+      },
+      {
+        "title": "KingOrnan Parent Brand",
+        "href": "https://www.kingornan.com/"
+      }
+    ],
+    "contactTitle": "Contact",
+    "contactName": "Alinna",
+    "salesOffice": "Sales Office: Ningbo, Zhejiang, China",
+    "manufacturingBase": "Manufacturing Base: Zhongshan, Guangdong, China"
+  },
+  "pages": {
+    "home": {
+      "seo": {
+        "title": "Custom PET Felt Acoustic Lighting Manufacturer | Acoustic Pendant Lights OEM/ODM | FLOSEEK",
+        "description": "FLOSEEK is a KingOrnan sub-brand for custom PET Felt Acoustic Lighting, with MOQ from 1 piece, fast samples, OEM/ODM support and global B2B supply."
+      },
+      "hero": {
+        "eyebrow": "OEM / ODM Acoustic Lighting Manufacturer",
+        "title": "Custom PET Felt Acoustic Lighting for modern B2B projects.",
+        "lead": "FLOSEEK, founded in 2024 as a high-end lighting sub-brand under KingOrnan, integrates PET Felt acoustic materials with architectural LED lighting for offices, hospitality spaces and commercial projects.",
+        "primaryCta": "Get an Acoustic Lighting Quote",
+        "secondaryCta": "View Product Range",
+        "proofAriaLabel": "Company highlights",
+        "proof": [
+          {
+            "value": "2024",
+            "label": "Founded"
+          },
+          {
+            "value": "OEM/ODM",
+            "label": "Custom Solution"
+          },
+          {
+            "value": "Global",
+            "label": "B2B Projects"
+          }
+        ],
+        "imageAlt": "Custom PET Felt Acoustic Lighting hero image for FLOSEEK B2B projects",
+        "cards": [
+          {
+            "number": "01",
+            "title": "Acoustic Comfort",
+            "text": "PET Felt material for sound absorption and a softer room experience."
+          },
+          {
+            "number": "02",
+            "title": "Custom Design",
+            "text": "Shape, size, color, CCT, dimming and mounting options."
+          }
+        ]
+      },
+      "trustStrip": {
+        "ariaLabel": "B2B buyer segments",
+        "label": "B2B Buyer Fit",
+        "title": "Built for buyers who need design value, acoustic performance and stable supply.",
+        "cta": "Send project requirements",
+        "items": [
+          {
+            "number": "01",
+            "title": "Lighting importers",
+            "text": "Private-label ranges, samples, catalog support and repeat bulk supply."
+          },
+          {
+            "number": "02",
+            "title": "Acoustic panel brands",
+            "text": "Add lighting SKUs around PET Felt materials and acoustic project needs."
+          },
+          {
+            "number": "03",
+            "title": "Office furniture brands",
+            "text": "Complement workstation and meeting room solutions with acoustic lighting."
+          },
+          {
+            "number": "04",
+            "title": "Contractors & designers",
+            "text": "Custom size, color, CCT and dimming support for project specification."
+          },
+          {
+            "number": "05",
+            "title": "Building wholesalers",
+            "text": "Scalable product supply for commercial interiors and acoustic packages."
+          }
+        ]
+      },
+      "products": {
+        "eyebrow": "Product Categories",
+        "title": "Acoustic Lighting built for project specification and scalable supply.",
+        "text": "Start from standard acoustic pendant and linear designs, or work with our team to develop a private-label product line for your market.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Acoustic Pendant Lights",
+            "text": "PET Felt Acoustic Pendant Lights for offices, meeting rooms and hospitality spaces.",
+            "cta": "View pendant collection",
+            "href": "/products/acoustic-pendant-lights",
+            "image": "/assets/img/home/Acoustic Pendant Lights.webp",
+            "alt": "PET Felt Acoustic Pendant Lights for lounge and office spaces"
+          },
+          {
+            "number": "02",
+            "title": "Acoustic Linear Lights",
+            "text": "Linear acoustic baffle lighting for open offices, classrooms and public interiors.",
+            "cta": "View linear collection",
+            "href": "/products/acoustic-linear-lights",
+            "image": "/assets/img/home/Acoustic Linear Lights.webp",
+            "alt": "Acoustic Linear Lights for office project specification"
+          },
+          {
+            "number": "03",
+            "title": "Ceiling & Wall Acoustic Lighting",
+            "text": "Integrated lighting concepts for acoustic ceilings, walls and decorative interior systems.",
+            "cta": "View ceiling & wall collection",
+            "href": "/products/acoustic-ceiling-wall-lighting",
+            "image": "/assets/img/home/Wall Acoustic Lights.webp",
+            "alt": "Blue PET Felt acoustic ceiling lighting for open office interiors"
+          },
+          {
+            "number": "04",
+            "title": "Acoustic Floor Lamps",
+            "text": "Freestanding PET Felt acoustic lighting for lounges, reception areas and flexible workspaces.",
+            "cta": "Ask for floor lamp options",
+            "href": "/products/acoustic-floor-lamps",
+            "image": "/assets/img/home/Acoustic Floor Lamps.webp",
+            "alt": "PET Felt acoustic floor lamp for office lounge and hospitality interiors"
+          }
+        ],
+        "accent": {
+          "number": "OEM",
+          "title": "Custom Acoustic Lamp Design",
+          "text": "Develop your own sizes, colors, shapes, wattage, CCT, dimming, logo and packaging.",
+          "cta": "See OEM/ODM process"
+        }
+      },
+      "solutions": {
+        "eyebrow": "Why Acoustic Lighting",
+        "title": "One product solves two project needs: light quality and acoustic comfort.",
+        "text": "In commercial interiors, lighting cannot only look good. It must support concentration, communication and brand atmosphere. PET Felt Acoustic Lighting combines sound-absorbing surfaces with comfortable illumination.",
+        "benefits": [
+          {
+            "number": "01",
+            "title": "Noise control",
+            "text": "Helps reduce room echo and improve speech comfort in busy interiors."
+          },
+          {
+            "number": "02",
+            "title": "Visual comfort",
+            "text": "Architectural LED design with warm, calm and professional lighting effects."
+          },
+          {
+            "number": "03",
+            "title": "Design flexibility",
+            "text": "Custom shapes, felt colors and mounting solutions for different design concepts."
+          },
+          {
+            "number": "04",
+            "title": "B2B supply support",
+            "text": "MOQ from 1 piece, standard-style samples within 7 days, custom drawing-based samples in about 15-20 days, plus bulk delivery support."
+          }
+        ],
+        "imageAlt": "PET Felt acoustic baffle lighting installed above open office workstations",
+        "metricTitle": "Project-ready",
+        "metricText": "For offices, education, hospitality, commercial interiors and public spaces."
+      },
+      "applications": {
+        "eyebrow": "Applications",
+        "title": "Designed for spaces where people need to hear better and feel better.",
+        "items": [
+          {
+            "title": "Office & Meeting Rooms",
+            "href": "/applications/office-meeting-rooms",
+            "alt": "Office acoustic lighting with blue PET Felt pendant fixtures"
+          },
+          {
+            "title": "Education Spaces",
+            "href": "/applications/education-spaces",
+            "alt": "Education hall with Custom PET Felt Acoustic Pendant Lights"
+          },
+          {
+            "title": "Restaurant & Hospitality",
+            "alt": "Restaurant and hospitality acoustic pendant lighting application",
+            "href": "/applications/restaurant-hospitality"
+          },
+          {
+            "title": "Commercial Interiors",
+            "alt": "Commercial interior with large PET Felt Acoustic Pendant Lighting",
+            "href": "/applications/commercial-interiors"
+          }
+        ]
+      },
+      "oem": {
+        "eyebrow": "OEM/ODM Capability",
+        "title": "From concept to sample, from sample to stable bulk production.",
+        "text": "FLOSEEK supports acoustic lighting brands, distributors and project buyers who need differentiated products instead of standard catalog items only.",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Requirement",
+            "text": "Share target product, space, size, quantity, certification market and budget range."
+          },
+          {
+            "number": "02",
+            "title": "Design Proposal",
+            "text": "We confirm structure, PET Felt color, LED specification, dimming and installation method."
+          },
+          {
+            "number": "03",
+            "title": "Sample & Testing",
+            "text": "Prototype for appearance, light effect, installation and electrical performance confirmation."
+          },
+          {
+            "number": "04",
+            "title": "Production & Delivery",
+            "text": "Quality control, packaging, labeling, bulk order management and global logistics support."
+          }
+        ],
+        "tags": [
+          "Size",
+          "Shape",
+          "Felt Color",
+          "Wattage",
+          "CCT",
+          "Dimming",
+          "Mounting",
+          "Logo",
+          "Packaging"
+        ]
+      },
+      "specs": {
+        "eyebrow": "Material",
+        "title": "PET Felt material, soft texture, architectural appearance.",
+        "text": "The acoustic surface creates a warm visual language for premium interiors while supporting sound absorption requirements in open and shared spaces.",
+        "ariaLabel": "Customization options",
+        "rows": [
+          {
+            "label": "Product Type",
+            "value": "Acoustic pendant / linear / ceiling / wall lighting"
+          },
+          {
+            "label": "Material",
+            "value": "PET Felt acoustic material + LED lighting system"
+          },
+          {
+            "label": "MOQ / Samples",
+            "value": "MOQ from 1 piece; regular styles within 7 days; custom drawing-based styles about 15-20 days"
+          },
+          {
+            "label": "Customization",
+            "value": "Size, shape, color, wattage, CCT, dimming, mounting, logo, packaging"
+          },
+          {
+            "label": "Bulk Lead Time",
+            "value": "Usually about 30 days after order confirmation"
+          },
+          {
+            "label": "Certification",
+            "value": "Certificates can be confirmed by target market and supported through KingOrnan parent brand materials"
+          },
+          {
+            "label": "Buyer Type",
+            "value": "Importers, distributors, acoustic brands, contractors, designers"
+          }
+        ]
+      },
+      "factory": {
+        "eyebrow": "Manufacturing & Supply",
+        "title": "Experienced LED manufacturing with acoustic product development support.",
+        "text": "We combine KingOrnan LED lighting manufacturing experience with custom acoustic material development, helping B2B customers move from idea to sample and stable supply faster.",
+        "checklist": [
+          "Sales office in Ningbo, Zhejiang, China",
+          "Manufacturing base in Zhongshan, Guangdong, China",
+          "Quality control for sampling, production and packaging",
+          "Support for private label and project-based requirements",
+          "Factory, equipment photos and certificate materials can be supported through KingOrnan"
+        ],
+        "images": [
+          {
+            "src": "/assets/img/home/factory-main.webp",
+            "alt": "FLOSEEK manufacturing workshop for lighting production and project supply"
+          },
+          {
+            "src": "/assets/img/home/factory-production.webp",
+            "alt": "FLOSEEK factory production detail for lighting assembly"
+          },
+          {
+            "src": "/assets/img/home/factory-warehouse.webp",
+            "alt": "FLOSEEK workshop and warehouse preparation for bulk lighting orders"
+          }
+        ]
+      },
+      "faq": {
+        "eyebrow": "FAQ",
+        "title": "Common questions from importers, distributors and project buyers.",
+        "text": "Use this section to reduce repeated communication and guide visitors toward a qualified inquiry.",
+        "items": [
+          {
+            "question": "Can you make custom PET Felt Acoustic Lights?",
+            "answer": "Yes. We support OEM/ODM customization for size, shape, PET Felt color, wattage, CCT, dimming, mounting accessories, logo and packaging."
+          },
+          {
+            "question": "What buyer types do you mainly serve?",
+            "answer": "Lighting importers, distributors, acoustic panel brands, office furniture brands, building material wholesalers, contractors, designers, architects and acoustic consultants."
+          },
+          {
+            "question": "Can you provide samples before bulk orders?",
+            "answer": "Yes. MOQ can start from 1 piece. Regular styles can usually be prepared within 7 days, while customer drawing-based custom styles usually take about 15-20 days for sample development."
+          },
+          {
+            "question": "Can you support certificates for different markets?",
+            "answer": "Certificate requirements should be confirmed by target market and product specification. FLOSEEK can support certificate materials through the KingOrnan parent brand when needed."
+          }
+        ]
+      },
+      "contact": {
+        "eyebrow": "Start Your Project",
+        "title": "Tell us your acoustic lighting requirement.",
+        "text": "Send your target product, project type, size, quantity, country and certification requirements. Our sales team will help confirm a suitable solution.",
+        "form": {
+          "name": "Name",
+          "email": "Email",
+          "company": "Company",
+          "country": "Country",
+          "message": "Message",
+          "submit": "Submit Project Inquiry",
+          "productRequirement": "Product Requirement",
+          "downloadCatalog": "Download Catalog",
+          "placeholders": {
+            "name": "Your name",
+            "email": "name@company.com",
+            "country": "Your country / market",
+            "message": "Tell us product size, quantity, project type, CCT, dimming, certificate or packaging needs."
+          },
+          "options": [
+            "Acoustic Pendant Lights",
+            "Acoustic Linear Lights",
+            "Acoustic Ceiling & Wall Lighting",
+            "Custom Acoustic Lighting"
+          ],
+          "note": "Thank you. Our sales team will contact you soon."
+        }
+      }
+    },
+    "contact": {
+      "seo": {
+        "title": "Contact FLOSEEK | Acoustic Lighting Quote, OEM/ODM Support and Catalog Requests",
+        "description": "Contact FLOSEEK for acoustic lighting quotes, MOQ 1-piece samples, OEM/ODM support, catalogs, packaging options and project delivery details."
+      },
+      "hero": {
+        "eyebrow": "Contact FLOSEEK",
+        "title": "Connect with us for acoustic lighting project support.",
+        "text": "Tell us your product requirement, project market, target quantity and customization needs. MOQ can start from 1 piece, regular styles are usually ready within 7 days, and custom drawing-based styles usually take about 15-20 days.",
+        "primaryCta": "Send Inquiry",
+        "secondaryCta": "WhatsApp Sales"
+      },
+      "formIntro": {
+        "label": "Project Inquiry",
+        "title": "Your message will be replied to within one business day."
+      },
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "company": "Company",
+        "country": "Country",
+        "productInterest": "Product Interest",
+        "quantity": "Quantity",
+        "message": "Message",
+        "submit": "Submit",
+        "downloadCatalog": "Download Catalog",
+        "placeholders": {
+          "name": "Your name",
+          "email": "name@company.com",
+          "company": "Company name",
+          "country": "Your country / market",
+          "quantity": "Estimated quantity",
+          "message": "Tell us product type, size, color, wattage, CCT, dimming, certification market, packaging needs and project schedule."
+        },
+        "options": [
+          "Acoustic Pendant Lights",
+          "Acoustic Linear Lights",
+          "Acoustic Ceiling & Wall Lighting",
+          "OEM/ODM Acoustic Lighting",
+          "Catalog / Parameter Sheet"
+        ],
+        "note": "After submitting, your inquiry will be sent directly to sales@kingornan.com."
+      },
+      "cardsSection": {
+        "eyebrow": "More Ways to Connect",
+        "title": "Reach the FLOSEEK team directly.",
+        "text": "Use the fastest channel for your project stage, from catalog request to quotation and sample discussion.",
+        "cards": [
+          {
+            "label": "E-mail",
+            "value": "sales@kingornan.com",
+            "href": "mailto:sales@kingornan.com?subject=Acoustic%20Lighting%20Project%20Inquiry"
+          },
+          {
+            "label": "Phone / WhatsApp",
+            "value": "+86 15888067484",
+            "href": "https://wa.me/8615888067484"
+          },
+          {
+            "label": "Response time",
+            "value": "Within one business day",
+            "href": "#contact-form"
+          },
+          {
+            "label": "Sample / MOQ",
+            "value": "MOQ 1 pc; regular styles within 7 days",
+            "href": "#contact-form"
+          }
+        ]
+      },
+      "addressSection": {
+        "eyebrow": "Office & Factory",
+        "title": "Sales support in Ningbo, manufacturing base in Zhongshan.",
+        "text": "FLOSEEK supports overseas importers, distributors, contractors and designers with Custom PET Felt Acoustic Lighting, sample confirmation, custom packaging and stable bulk supply. Factory photos, production equipment photos and certificate materials can be supported through KingOrnan.",
+        "addresses": [
+          {
+            "title": "Sales Office",
+            "lines": [
+              "Room 1207, HuiDing Building",
+              "Yinzhou Southern Business District",
+              "Ningbo City, Zhejiang Province, China"
+            ]
+          },
+          {
+            "title": "Factory Address",
+            "lines": [
+              "Weipai Industry Park",
+              "Henglan, Zhongshan City",
+              "Guangdong Province, China"
+            ]
+          },
+          {
+            "title": "Factory Address",
+            "lines": [
+              "No. 27 North Huanzhen Road",
+              "Henglan, Zhongshan City",
+              "Guangdong Province, China"
+            ]
+          }
+        ]
+      },
+      "ctaSection": {
+        "eyebrow": "Ready to illuminate your next project?",
+        "title": "Contact our sales team today to get a competitive quotation.",
+        "cta": "Request a Quote Now"
+      }
+    },
+    "collection": {
+      "seo": {
+        "title": "Acoustic Pendant Lights Manufacturer | PET Felt Acoustic Pendant Lights for B2B Projects",
+        "description": "Source Acoustic Pendant Lights from FLOSEEK, including PET Felt Acoustic Lighting for offices, hospitality, education and commercial interiors with OEM/ODM customization."
+      },
+      "hero": {
+        "eyebrow": "Acoustic Pendant Lights",
+        "title": "PET Felt pendant lights for quieter, warmer project interiors.",
+        "text": "FLOSEEK supplies Acoustic Pendant Lights for offices, hospitality, education and commercial projects, combining PET Felt sound absorption with architectural LED lighting and OEM/ODM customization.",
+        "primaryCta": "Request Pendant Quote",
+        "secondaryCta": "View Product Families",
+        "proof": [
+          "OEM/ODM",
+          "3000K / 4000K / 6000K",
+          "Non-dim / 1-10V / DALI",
+          "Custom colors and sizes"
+        ],
+        "images": [
+          {
+            "src": "/assets/img/pendant/image533.jpeg",
+            "alt": "Acoustic Pendant Lights in a lounge interior",
+            "className": "hero-tile tall"
+          },
+          {
+            "src": "/assets/img/pendant/image535.jpeg",
+            "alt": "Red ribbed acoustic pendant light"
+          },
+          {
+            "src": "/assets/img/pendant/image619.jpeg",
+            "alt": "Green ribbed acoustic pendant light"
+          },
+          {
+            "src": "/assets/img/pendant/image571.png",
+            "alt": "Acoustic Pendant Lighting applications collage",
+            "className": "hero-tile wide"
+          }
+        ]
+      },
+      "summary": [
+        {
+          "number": "01",
+          "title": "Acoustic comfort",
+          "text": "PET Felt panels help absorb sound and reduce harsh reflections in shared interiors."
+        },
+        {
+          "number": "02",
+          "title": "Lighting performance",
+          "text": "Diffuser, microprismatic, honeycomb, lens and reflector options for different effects."
+        },
+        {
+          "number": "03",
+          "title": "Project supply",
+          "text": "Support for samples, color matching, packaging, private label and bulk order delivery."
+        }
+      ],
+      "families": {
+        "eyebrow": "Product Families",
+        "title": "Choose a pendant form, then customize size, color, light and mounting.",
+        "text": "The collection follows the product range from the acoustic lighting catalog: ring, drum, canopy, petal, linear and disc pendant families for different project scenes.",
+        "tagsAriaLabel": "Product family tags",
+        "tags": [
+          "Ring",
+          "Drum",
+          "Canopy",
+          "Linear",
+          "Disc",
+          "Decorative",
+          "OEM/ODM"
+        ],
+        "products": [
+          {
+            "name": "Ribbed Acoustic Ring Pendant",
+            "model": "KO-XYM-0024 / ring family",
+            "image": "/assets/img/pendant/ko-xym-0024-ring-from-source-v2.png",
+            "tag": "Ring pendant",
+            "text": "A sculptural PET Felt ring pendant for lounges, meeting rooms and hospitality spaces.",
+            "specs": [
+              "560 x 280 mm / 800 x 240 mm",
+              "30W / 50W options",
+              "Diffuser or microprismatic diffuser"
+            ],
+            "href": "/products/acoustic-pendant-lights/ko-xym-0024-ring-family",
+            "cta": "Ask for details"
+          },
+          {
+            "name": "Slatted Drum Acoustic Pendant",
+            "model": "KO-XYM-0185 / drum family",
+            "image": "/assets/img/pendant/ko-xym-0185-drum-from-source.png",
+            "href": "/products/acoustic-pendant-lights/ko-xym-0185-drum-pendant",
+            "tag": "Drum pendant",
+            "text": "Vertical Felt ribs soften glare and add a warm acoustic surface above tables and collaborative areas.",
+            "specs": [
+              "Felt rib structure",
+              "3000K / 4000K / 6000K",
+              "Custom color options"
+            ],
+            "cta": "Ask for details"
+          },
+          {
+            "name": "Canopy Felt Pendant Lamp",
+            "model": "KO-XYM-0127 / canopy family",
+            "image": "/assets/img/pendant/ko-xym-0127-canopy.jpeg",
+            "href": "/products/acoustic-pendant-lights/ko-xym-0127-canopy-felt-pendant",
+            "tag": "Canopy pendant",
+            "text": "A soft canopy form creates warmer acoustic coverage for restaurants, cafes and reception zones.",
+            "specs": [
+              "E27 or LED versions",
+              "Acoustic Felt body",
+              "Custom diameter and color"
+            ],
+            "cta": "Ask for details"
+          },
+          {
+            "name": "Petal Acoustic Pendant",
+            "model": "KO-XYM-0155 / petal family",
+            "image": "/assets/img/pendant/ko-xym-0155-petal.jpeg",
+            "href": "/products/acoustic-pendant-lights/ko-xym-0155-petal-pendant",
+            "tag": "Petal pendant",
+            "text": "Layered PET Felt petals create a decorative acoustic pendant for dining, breakout and informal meeting spaces.",
+            "specs": [
+              "Multiple shade heights",
+              "Non-dim / 1-10V / DALI",
+              "PET Felt or fabric finish"
+            ],
+            "cta": "Ask for details"
+          },
+          {
+            "name": "Linear Acoustic Pendant Light",
+            "model": "KO-XYM-0085 / linear family",
+            "image": "/assets/img/pendant/ko-xym-0085-linear.jpeg",
+            "href": "/products/acoustic-linear-lights/ko-xym-0085-linear-pendant",
+            "tag": "Linear pendant",
+            "text": "Long-form acoustic lighting for conference tables, open offices and classroom work zones.",
+            "specs": [
+              "1000-3000 mm lengths",
+              "30-60W options",
+              "Lens, diffuser or honeycomb optics"
+            ],
+            "cta": "Ask for details"
+          },
+          {
+            "name": "Disc Felt Pendant Light",
+            "model": "KO-XYM-0121 / disc family",
+            "image": "/assets/img/pendant/ko-xym-0121-dome-disc.jpeg",
+            "href": "/products/acoustic-pendant-lights/ko-xym-0121-disc-felt-pendant",
+            "tag": "Disc pendant",
+            "text": "A clean layered disc pendant for offices and hospitality interiors needing soft light plus sound comfort.",
+            "specs": [
+              "E27 or integrated LED",
+              "IP20 indoor use",
+              "Project color matching"
+            ],
+            "cta": "Ask for details"
+          }
+        ]
+      },
+      "specs": {
+        "eyebrow": "Specification Range",
+        "title": "Built around project requirements, not one fixed SKU.",
+        "text": "Use these as starting specifications for inquiry qualification. Final size, wattage, color and certificate requirements should be confirmed against project drawings and target market.",
+        "ariaLabel": "Acoustic Pendant Light specification range",
+        "rows": [
+          {
+            "label": "Materials",
+            "value": "PET Felt acoustic material, aluminum, carbon steel, optional PMMA / fabric details"
+          },
+          {
+            "label": "Light Source",
+            "value": "Integrated LED or E27 options depending on pendant family"
+          },
+          {
+            "label": "CCT",
+            "value": "3000K / 4000K / 6000K"
+          },
+          {
+            "label": "Dimming",
+            "value": "Non-dim / 1-10V / DALI options"
+          },
+          {
+            "label": "Optics",
+            "value": "Diffuser panel, microprismatic diffuser, honeycomb, lens, reflector cup"
+          },
+          {
+            "label": "Indoor Rating",
+            "value": "IP20, CRI greater than 90 for selected LED models"
+          },
+          {
+            "label": "Customization",
+            "value": "Size, shape, Felt color, wattage, CCT, dimming, cable, logo and packaging"
+          }
+        ]
+      },
+      "applications": {
+        "eyebrow": "Applications",
+        "title": "Designed for spaces where sound comfort and visual warmth matter together.",
+        "items": [
+          {
+            "title": "Office & Meeting Rooms",
+            "image": "/assets/img/pendant/office-meeting-acoustic-pendant.jpeg",
+            "href": "/applications/office-meeting-rooms",
+            "text": "Reduce echo above workstations, meeting tables and focus zones while keeping the ceiling visually clean."
+          },
+          {
+            "title": "Restaurant & Hospitality",
+            "image": "/assets/img/pendant/restaurant-hospitality-acoustic-pendant.jpeg",
+            "href": "/applications/restaurant-hospitality",
+            "text": "Create warmer dining atmospheres with acoustic Felt surfaces, soft illumination and decorative forms."
+          },
+          {
+            "title": "Education & Shared Spaces",
+            "image": "/assets/img/pendant/education-shared-spaces-acoustic-pendant.jpeg",
+            "href": "/applications/education-spaces",
+            "text": "Support speech comfort in classrooms, libraries, studios and collaborative learning environments."
+          }
+        ]
+      },
+      "custom": {
+        "eyebrow": "OEM/ODM Pendant Development",
+        "title": "Develop private-label acoustic pendant lighting from concept to sample.",
+        "text": "Share your target product form, room type, dimensions, color palette, quantity and market requirements. FLOSEEK can support project quotation, sample development, packaging and repeat supply.",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Brief",
+            "text": "Product type, space, size, quantity, target market and budget."
+          },
+          {
+            "number": "02",
+            "title": "Specification",
+            "text": "Felt color, wattage, CCT, dimming, mounting and optics."
+          },
+          {
+            "number": "03",
+            "title": "Sample",
+            "text": "Prototype for appearance, light effect and installation confirmation."
+          },
+          {
+            "number": "04",
+            "title": "Supply",
+            "text": "Quality control, packaging, labeling and global delivery support."
+          }
+        ]
+      },
+      "contact": {
+        "eyebrow": "Get Product Support",
+        "title": "Request acoustic pendant light catalog, sample or quotation.",
+        "text": "Send your project type, preferred pendant family, size, quantity, color, CCT, dimming and certification market.",
+        "form": {
+          "name": "Name",
+          "email": "Email",
+          "country": "Country",
+          "message": "Message",
+          "productFamily": "Product Family",
+          "submit": "Submit Pendant Inquiry",
+          "placeholders": {
+            "name": "Your name",
+            "email": "name@company.com",
+            "country": "Your country / market",
+            "message": "Tell us size, quantity, CCT, dimming, Felt color, market and project schedule."
+          },
+          "options": [
+            "Ribbed Acoustic Ring Pendant",
+            "Slatted Drum Acoustic Pendant",
+            "Canopy Felt Pendant Lamp",
+            "Petal Acoustic Pendant",
+            "Linear Acoustic Pendant Light",
+            "Custom OEM/ODM Pendant"
+          ],
+          "note": "Thank you. Our sales team will contact you soon."
+        }
+      }
+    },
+    "officeMeetingRooms": {
+      "seo": {
+        "title": "Office & Meeting Room Acoustic Lighting Projects | FLOSEEK",
+        "description": "Explore office and meeting room acoustic lighting applications from FLOSEEK, with project-style cases for open offices, boardrooms, client lounges and training rooms."
+      },
+      "hero": {
+        "eyebrow": "Office & Meeting Rooms",
+        "title": "Acoustic lighting for workplaces where speech clarity matters.",
+        "text": "FLOSEEK combines PET Felt acoustic surfaces with architectural LED lighting for open offices, meeting rooms, boardrooms and flexible collaboration spaces.",
+        "primaryCta": "Discuss an office project",
+        "secondaryCta": "View project cases",
+        "image": "/assets/img/applications/office-meeting/open-office-acoustic-linear.png",
+        "imageAlt": "Open office with PET Felt acoustic linear lights above workstations",
+        "proof": [
+          "Open office",
+          "Boardroom",
+          "Focus room",
+          "Training room"
+        ]
+      },
+      "intro": {
+        "eyebrow": "Application Fit",
+        "title": "Replace visual clutter with lighting that also manages room sound.",
+        "text": "Office interiors often need lighting, acoustic control and a clean ceiling language at the same time. PET Felt acoustic luminaires help reduce reflected speech noise around workstations and meeting tables while giving designers a visible material finish to coordinate with furniture, ceilings and wall panels.",
+        "items": [
+          {
+            "title": "Speech-focused zones",
+            "text": "Use acoustic pendants above conference tables, huddle rooms and video-call rooms to improve comfort around conversations."
+          },
+          {
+            "title": "Workstation rows",
+            "text": "Linear baffle lights can follow desk layouts, adding downlight and absorption without a separate ceiling raft."
+          },
+          {
+            "title": "Design coordination",
+            "text": "PET Felt color, pendant geometry, CCT, dimming and suspension details can be adjusted for the project palette."
+          }
+        ]
+      },
+      "cases": {
+        "eyebrow": "Project-style Cases",
+        "title": "Realistic office scenarios built from common project briefs.",
+        "text": "The following cases are newly written examples based on workplace project requirements. They follow the type of information a designer or buyer would expect while using original names, descriptions and scene imagery.",
+        "items": [
+          {
+            "name": "Ningbo Harbor Tech Operations Floor",
+            "location": "Ningbo, China",
+            "sector": "Open-plan technology office",
+            "designRole": "Workplace consultant and local electrical contractor",
+            "product": "Charcoal PET Felt linear acoustic lights, 4000K, workstation rows",
+            "models": [
+              {
+                "code": "KO-XYM-0164",
+                "name": "Linear Acoustic Baffle Light",
+                "href": "/products/acoustic-linear-lights/ko-xym-0164-acoustic-linear-light"
+              }
+            ],
+            "image": "/assets/img/applications/office-meeting/open-office-acoustic-linear.png",
+            "alt": "Open-plan office project with charcoal PET Felt acoustic linear lighting",
+            "brief": "A growing technology team needed a calmer workstation floor without lowering the ceiling with a heavy acoustic system. Long felt luminaires were aligned to desk islands so the lighting plan and acoustic treatment read as one element.",
+            "results": [
+              "Linear layout matched 24 workstation rows",
+              "Felt finish coordinated with desk privacy screens",
+              "Warm-neutral LED output supported all-day office use"
+            ]
+          },
+          {
+            "name": "Riverside Capital Boardroom Suite",
+            "location": "Singapore",
+            "sector": "Executive meeting rooms",
+            "designRole": "Interior design studio and procurement partner",
+            "product": "Blue-grey PET Felt ring pendants, DALI dimming, CRI 90 LED",
+            "models": [
+              {
+                "code": "KO-XYM-0210B",
+                "name": "Acoustic Ring Pendant Light",
+                "href": "/products/acoustic-linear-lights/ko-xym-0210b-acoustic-linear-light"
+              }
+            ],
+            "image": "/assets/img/applications/office-meeting/boardroom-ring-pendants.png",
+            "alt": "Executive boardroom with blue grey PET Felt acoustic ring pendant lights",
+            "brief": "The boardroom required a strong ceiling feature for video meetings and client presentations. Oversized acoustic ring pendants softened the room visually while adding absorption above the long timber table.",
+            "results": [
+              "Grouped rings created a premium focal point",
+              "Dimming scenes supported presentation and discussion modes",
+              "PET Felt color matched acoustic wall panels"
+            ]
+          },
+          {
+            "name": "Lumen & Vale Client Meeting Lounge",
+            "location": "Melbourne, Australia",
+            "sector": "Law firm reception and client rooms",
+            "designRole": "Architect, lighting designer and furniture contractor",
+            "product": "Charcoal, teal and warm grey ribbed PET Felt pendants, 3000K",
+            "models": [
+              {
+                "code": "KO-XYM-0134",
+                "name": "Ribbed Acoustic Pendant Light",
+                "href": "/products/acoustic-pendant-lights/ko-xym-0134-acoustic-pendant-light"
+              }
+            ],
+            "image": "/assets/img/applications/office-meeting/law-firm-ko-xym-0134-lounge.png",
+            "alt": "Law firm client lounge with KO-XYM-0134 ribbed PET Felt acoustic pendant lighting",
+            "brief": "A legal workplace wanted a quieter waiting and consultation zone next to glazed meeting rooms. KO-XYM-0134 ribbed PET Felt pendants introduced warmer light over small tables while the felt surfaces supported the lounge's restrained acoustic strategy.",
+            "results": [
+              "Dome form softened glass-heavy meeting areas",
+              "3000K lighting improved hospitality feel",
+              "Neutral felt tones blended with timber and upholstery"
+            ]
+          },
+          {
+            "name": "AsterWorks Project Learning Hub",
+            "location": "Rotterdam, Netherlands",
+            "sector": "Training and collaboration space",
+            "designRole": "Workplace strategy team and fit-out contractor",
+            "product": "Teal, rust and light grey hexagonal acoustic luminaires",
+            "models": [
+              {
+                "code": "KO-XYM-0146",
+                "name": "Hexagonal Acoustic Pendant Panel",
+                "href": "/products/acoustic-linear-lights/ko-xym-0146-acoustic-linear-light"
+              },
+              {
+                "code": "KO-XYM-0164",
+                "name": "Linear Acoustic Baffle Light",
+                "href": "/products/acoustic-linear-lights/ko-xym-0164-acoustic-linear-light"
+              }
+            ],
+            "image": "/assets/img/applications/office-meeting/training-project-room-ko-xym-0146.png",
+            "alt": "Training room with colorful PET Felt acoustic pendant lights",
+            "brief": "A flexible training room needed brighter identity than the surrounding office while remaining practical for workshops. Hexagonal and linear acoustic luminaires helped define zones without fixed partitions.",
+            "results": [
+              "Color-coded fixtures supported wayfinding and room identity",
+              "Suspended acoustic surfaces worked with pin-up wall panels",
+              "Modular layout remained open for training and project sprints"
+            ]
+          }
+        ]
+      },
+      "spec": {
+        "eyebrow": "Specification Notes",
+        "title": "Typical choices for office and meeting room acoustic lighting.",
+        "rows": [
+          {
+            "label": "Recommended products",
+            "value": "Acoustic linear lights, PET Felt ring pendants, dome pendants, custom baffle luminaires"
+          },
+          {
+            "label": "Common CCT",
+            "value": "3000K for lounges and boardrooms, 4000K for workstation and training areas"
+          },
+          {
+            "label": "Control options",
+            "value": "Non-dim, 1-10V or DALI depending on project electrical plan"
+          },
+          {
+            "label": "Customization",
+            "value": "Fixture length, diameter, PET Felt color, suspension, optics, logo and packaging"
+          }
+        ]
+      },
+      "cta": {
+        "eyebrow": "Start a Workplace Inquiry",
+        "title": "Send your room layout, ceiling height and target lighting effect.",
+        "text": "FLOSEEK can help confirm product family, fixture size, felt color, wattage, CCT, dimming and sample requirements for office and meeting room projects.",
+        "button": "Request project support"
+      }
+    },
+    "educationSpaces": {
+      "seo": {
+        "title": "Education Space Acoustic Lighting Projects | FLOSEEK",
+        "description": "Explore education acoustic lighting applications for classrooms, libraries, maker labs and early learning spaces using PET Felt acoustic luminaires."
+      },
+      "hero": {
+        "eyebrow": "Education Spaces",
+        "title": "Acoustic lighting for classrooms, libraries and shared learning zones.",
+        "text": "FLOSEEK PET Felt acoustic luminaires combine comfortable light, sound absorption and durable material finishes for education interiors where speech, focus and flexibility matter.",
+        "primaryCta": "Discuss an education project",
+        "secondaryCta": "View education cases",
+        "image": "/assets/img/applications/education-spaces/classroom-ko-xym-0164.png",
+        "imageAlt": "Modern classroom with KO-XYM-0164 linear acoustic baffle lights",
+        "proof": [
+          "Classroom",
+          "Library",
+          "Maker lab",
+          "Early learning"
+        ]
+      },
+      "intro": {
+        "eyebrow": "Application Fit",
+        "title": "Support learning spaces with calmer sound and consistent task light.",
+        "text": "Education projects often need durable fixtures that help teachers and students hear each other while keeping the ceiling design simple. Acoustic lighting can reduce reflected sound around desks, reading tables and project zones without adding a separate acoustic raft.",
+        "items": [
+          {
+            "title": "Speech and focus",
+            "text": "Use acoustic luminaires above teaching walls, reading tables and group desks to support clearer everyday communication."
+          },
+          {
+            "title": "Flexible layouts",
+            "text": "Suspended linear, disc, petal and hexagonal forms can follow classroom rows, library tables or maker-lab islands."
+          },
+          {
+            "title": "Project coordination",
+            "text": "PET Felt color, CCT, suspension length, dimming and product packaging can be coordinated for classroom rollout projects."
+          }
+        ]
+      },
+      "cases": {
+        "eyebrow": "Project-style Cases",
+        "title": "Education scenarios built from practical learning-space briefs.",
+        "text": "These original examples follow the project-style information that architects, school operators and buyers usually need: space type, design team, product model, lighting scope and expected outcomes.",
+        "items": [
+          {
+            "name": "Hangzhou East Campus Teaching Wing",
+            "location": "Hangzhou, China",
+            "sector": "Middle school general classrooms",
+            "designRole": "Education interior consultant and electrical contractor",
+            "product": "Green PET Felt linear acoustic baffle lights, 4000K, classroom desk rows",
+            "models": [
+              {
+                "code": "KO-XYM-0164",
+                "name": "Linear Acoustic Baffle Light",
+                "href": "/products/acoustic-linear-lights/ko-xym-0164-acoustic-linear-light"
+              }
+            ],
+            "image": "/assets/img/applications/education-spaces/classroom-ko-xym-0164.png",
+            "alt": "Classroom with KO-XYM-0164 PET Felt linear acoustic baffle lights above desks",
+            "brief": "A teaching wing needed better speech comfort without lowering an already busy ceiling. Linear PET Felt luminaires were aligned with student desk rows so the lighting plan, acoustic surface and classroom layout worked as one system.",
+            "results": [
+              "Parallel baffle layout supported consistent desk illumination",
+              "Felt finish coordinated with acoustic wall boards",
+              "Warm-neutral LED output remained practical for daily lessons"
+            ]
+          },
+          {
+            "name": "Suzhou Meridian Library Commons",
+            "location": "Suzhou, China",
+            "sector": "University library study area",
+            "designRole": "Library planner, lighting designer and fit-out team",
+            "product": "Layered PET Felt disc pendants, brass stem, quiet reading tables",
+            "models": [
+              {
+                "code": "KO-XYM-0121",
+                "name": "Disc Felt Pendant Light",
+                "href": "/products/acoustic-pendant-lights/ko-xym-0121-disc-felt-pendant"
+              }
+            ],
+            "image": "/assets/img/applications/education-spaces/library-ko-xym-0121.png",
+            "alt": "Campus library with KO-XYM-0121 layered acoustic disc pendant lights over study tables",
+            "brief": "The library commons needed a calmer identity for group study tables while keeping enough visual warmth for long evening use. Layered disc pendants gave each table a recognizable focus point and added soft acoustic surfaces above the seating zone.",
+            "results": [
+              "Pendant rhythm helped define reading and group-study areas",
+              "Layered colors added wayfinding without wall graphics",
+              "Integrated downlight supported table-based study tasks"
+            ]
+          },
+          {
+            "name": "Melbourne North STEAM Project Lab",
+            "location": "Melbourne, Australia",
+            "sector": "School maker lab and robotics classroom",
+            "designRole": "STEM learning consultant and local installation partner",
+            "product": "Teal, orange and light grey hexagonal PET Felt acoustic pendant panels",
+            "models": [
+              {
+                "code": "KO-XYM-0146",
+                "name": "Hexagonal Acoustic Pendant Panel",
+                "href": "/products/acoustic-linear-lights/ko-xym-0146-acoustic-linear-light"
+              }
+            ],
+            "image": "/assets/img/applications/education-spaces/maker-lab-ko-xym-0146.png",
+            "alt": "STEAM maker classroom with KO-XYM-0146 hexagonal acoustic pendant panels",
+            "brief": "A hands-on project room needed brighter identity and better comfort around noisy teamwork. Hexagonal acoustic pendant panels were suspended over mobile benches so work zones stayed open while the ceiling provided both color and absorption.",
+            "results": [
+              "Color-coded fixtures marked project zones above workbenches",
+              "Center downlights supported detailed maker activities",
+              "Suspended panels kept wall storage and tool boards unobstructed"
+            ]
+          },
+          {
+            "name": "Singapore Orchard Early Reading Studio",
+            "location": "Singapore",
+            "sector": "Early learning library and reading corner",
+            "designRole": "Learning environment designer and preschool operator",
+            "product": "Grey PET Felt petal acoustic pendants, soft reading circles",
+            "models": [
+              {
+                "code": "KO-XYM-0155",
+                "name": "Petal Acoustic Pendant",
+                "href": "/products/acoustic-pendant-lights/ko-xym-0155-petal-pendant"
+              }
+            ],
+            "image": "/assets/img/applications/education-spaces/early-reading-ko-xym-0155.png",
+            "alt": "Early learning reading area with KO-XYM-0155 petal acoustic pendant lights",
+            "brief": "The reading studio needed a softer ceiling feature above child-scale tables and floor cushions. Petal acoustic pendants introduced a gentle visual form while keeping the lighting warm and comfortable for storytelling and quiet reading.",
+            "results": [
+              "Sculptural felt pendants softened the reading corner",
+              "Low-glare light supported books, craft tables and floor seating",
+              "Neutral felt color coordinated with timber shelves and soft rugs"
+            ]
+          }
+        ]
+      },
+      "spec": {
+        "eyebrow": "Specification Notes",
+        "title": "Typical choices for education acoustic lighting projects.",
+        "rows": [
+          {
+            "label": "Recommended products",
+            "value": "Acoustic linear baffle lights, disc pendants, hexagonal pendant panels and petal acoustic pendants"
+          },
+          {
+            "label": "Common CCT",
+            "value": "4000K for classrooms and labs, 3000K-3500K for libraries and early learning spaces"
+          },
+          {
+            "label": "Control options",
+            "value": "Non-dim, 1-10V or DALI depending on classroom scene control and electrical plan"
+          },
+          {
+            "label": "Customization",
+            "value": "Fixture color, suspension length, optics, quantity schedule, carton labels and project documentation"
+          }
+        ]
+      },
+      "cta": {
+        "eyebrow": "Start an Education Inquiry",
+        "title": "Send the classroom type, ceiling height and learning-space layout.",
+        "text": "FLOSEEK can help match product models, felt colors, wattage, CCT, dimming and sample needs for classrooms, libraries, labs and shared learning interiors.",
+        "button": "Request education project support"
+      }
+    },
+    "productDetail": {
+      "seo": {
+        "title": "KO-XYM-0137 Acoustic Ring Pendant Light | PET Felt Pendant Supplier",
+        "description": "KO-XYM-0137 PET felt acoustic ring pendant light for offices, meeting rooms and hospitality projects. Review sizes, wattage, CCT, dimming and OEM options."
+      },
+      "breadcrumb": "Acoustic Pendant Lights",
+      "code": "KO-XYM-0137 / Ring Family",
+      "title": "Acoustic Ring Pendant Light",
+      "text": "Round PET felt acoustic pendant light with integrated LED illumination for offices, meeting rooms, hospitality interiors and commercial project supply.",
+      "primaryCta": "Request Quote",
+      "secondaryCta": "Technical Data",
+      "quickSpecsAriaLabel": "Key specifications",
+      "quickSpecs": [
+        {
+          "label": "Sizes",
+          "value": "(Ø710+630) x 250 mm / (Ø910+830) x 300 mm"
+        },
+        {
+          "label": "Power",
+          "value": "30W / 48W"
+        },
+        {
+          "label": "CCT",
+          "value": "3000K / 4000K / 6000K"
+        },
+        {
+          "label": "Dimming",
+          "value": "Non-dim / 1-10V / DALI"
+        }
+      ],
+      "heroImageAlt": "KO-XYM-0137 acoustic ring pendant light",
+      "lineDrawingAlt": "KO-XYM-0137 acoustic ring pendant line drawing",
+      "overview": {
+        "title": "Product Overview",
+        "paragraphs": [
+          "KO-XYM-0137 is a round acoustic pendant light with a layered felt body and a central LED diffuser. The circular form works above meeting tables, collaborative desks, lounge seating and hospitality interiors where lighting and acoustic comfort need to be specified together.",
+          "The PET felt exterior softens the visual mass of the pendant while the illuminated underside provides practical ambient light. The fixture is available in two sizes with diffuser panel or microprismatic diffuser optics, multiple color temperatures and project dimming options.",
+          "For B2B projects, FLOSEEK can coordinate felt color, suspension height, ceiling canopy, packaging and OEM/ODM details around your project schedule and market requirements."
+        ]
+      },
+      "scenes": {
+        "title": "Scene Application",
+        "text": "Use KO-XYM-0137 where a round acoustic lighting feature can define meeting tables, reception points and shared work areas while adding PET felt sound-absorbing surface above the activity zone."
+      },
+      "technical": {
+        "title": "Technical Information",
+        "text": "",
+        "rows": [
+          {
+            "label": "Model",
+            "value": "KO-XYM-0137 / Ring Family"
+          },
+          {
+            "label": "Product type",
+            "value": "PET felt acoustic pendant light"
+          },
+          {
+            "label": "Size",
+            "value": "(Ø710+630) x 250 mm / (Ø910+830) x 300 mm"
+          },
+          {
+            "label": "Power",
+            "value": "30W / 48W"
+          },
+          {
+            "label": "Color temperature",
+            "value": "3000K / 4000K / 6000K"
+          },
+          {
+            "label": "Dimming",
+            "value": "Non-dim / 1-10V / DALI"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum + acoustic PET felt"
+          },
+          {
+            "label": "Optics",
+            "value": "Diffuser panel / microprismatic diffuser"
+          },
+          {
+            "label": "Indoor rating",
+            "value": "IP20"
+          },
+          {
+            "label": "Color chart",
+            "value": "Choose from Color Chart Type A"
+          },
+          {
+            "label": "Customization",
+            "value": "Felt color, diameter, suspension, wattage, CCT, dimming, logo and packaging"
+          }
+        ]
+      },
+      "options": {
+        "title": "Options",
+        "items": [
+          "Type A PET felt color selection",
+          "Diffuser panel or microprismatic diffuser",
+          "Suspension height and ceiling canopy options",
+          "OEM label and packaging support"
+        ]
+      },
+      "materials": {
+        "text": "KO-XYM-0137 combines aluminum lighting hardware with an acoustic PET felt body. Choose from the Type A PET felt color range, then confirm color number, CCT, dimming type and suspension details for sample approval or mass production."
+      },
+      "quote": {
+        "title": "Request Product Details",
+        "text": "Send size, quantity, felt color, CCT, dimming requirement and destination market. Our team will confirm the recommended configuration and quotation details.",
+        "primaryCta": "Email Sales",
+        "secondaryCta": "WhatsApp: +86 15888067484"
+      },
+      "related": {
+        "title": "Other Acoustic Pendant Styles",
+        "text": "Compare these acoustic pendant light styles when selecting fixture shape, felt color, lighting output and project budget."
+      },
+      "inquiry": {
+        "eyebrow": "Product Inquiry",
+        "title": "Confirm KO-XYM-0137 for your project.",
+        "text": "Share quantity, size, felt color, CCT, dimming method, ceiling height and destination market. The sales team can prepare configuration advice, quotation details and project documents."
+      }
+    },
+    "about": {
+      "seo": {
+        "title": "About FLOSEEK | PET Felt Acoustic Lighting Manufacturer",
+        "description": "Learn about FLOSEEK, the high-end lighting sub-brand under KingOrnan, founded in 2024 with acoustic lighting as its core product category."
+      },
+      "hero": {
+        "eyebrow": "About FLOSEEK",
+        "title": "A high-end acoustic lighting brand built for commercial project value.",
+        "lead": "FLOSEEK was founded in 2024 as a high-end lighting sub-brand under KingOrnan, with acoustic lighting as its main product category for design-led B2B projects.",
+        "primaryCta": "Talk to Alinna's team",
+        "secondaryCta": "View factory capability",
+        "founderImageAlt": "Alinna, founder of FLOSEEK",
+        "founderLabel": "Founder",
+        "founderName": "Alinna",
+        "founderTitle": "Founder of KingOrnan"
+      },
+      "proof": [
+        {
+          "value": "2024",
+          "label": "FLOSEEK founded"
+        },
+        {
+          "value": "KingOrnan",
+          "label": "Parent brand support"
+        },
+        {
+          "value": "OEM/ODM",
+          "label": "Custom project support"
+        },
+        {
+          "value": "Global",
+          "label": "B2B buyer support"
+        }
+      ],
+      "story": {
+        "eyebrow": "Our Story",
+        "title": "A focused sub-brand for high-end acoustic lighting.",
+        "paragraphs": [
+          "FLOSEEK was established in 2024 to focus on high-end acoustic lighting, especially PET Felt Acoustic Lighting for commercial interiors.",
+          "As a sub-brand under KingOrnan, FLOSEEK carries forward the parent brand's lighting manufacturing background while presenting a more focused identity for acoustic pendant, linear, ceiling, wall and floor lighting.",
+          "Our main product category is acoustic lighting, combining sound-absorbing PET felt materials with architectural LED systems for offices, hospitality, education and commercial interiors.",
+          "Today, FLOSEEK works as a focused acoustic lighting partner for buyers who need stable supply, custom development, clear communication and products that create value in their local market."
+        ],
+        "quoteLabel": "Founder Belief",
+        "quote": "Lighting should be simple, reliable, and valuable.",
+        "quoteSource": "Alinna, Founder of KingOrnan"
+      },
+      "values": {
+        "eyebrow": "Vision & Mission",
+        "title": "We focus on useful lighting solutions, not catalog items only.",
+        "text": "FLOSEEK focuses the KingOrnan lighting background into acoustic lighting products that create design value, acoustic comfort and practical project support.",
+        "items": [
+          {
+            "number": "01",
+            "title": "Create customer value",
+            "text": "We help buyers develop products that fit their market, project requirements and brand position."
+          },
+          {
+            "number": "02",
+            "title": "Provide practical solutions",
+            "text": "From product structure and PET Felt color to LED specification, dimming, packaging and delivery, we support the full project path."
+          },
+          {
+            "number": "03",
+            "title": "Build long-term trust",
+            "text": "Clear communication, stable quality control and responsible after-sales support make cooperation easier for overseas B2B buyers."
+          }
+        ]
+      },
+      "timeline": {
+        "eyebrow": "Development Path",
+        "title": "From LED basics to acoustic lighting solutions.",
+        "items": [
+          {
+            "year": "2012",
+            "title": "KingOrnan founded",
+            "text": "Alinna founded KingOrnan in China, starting with reliable LED panel, tube and batten lighting products."
+          },
+          {
+            "year": "2016+",
+            "title": "Manufacturing expansion",
+            "text": "The company expanded commercial lighting capability, materials processing and project-based production support."
+          },
+          {
+            "year": "2021",
+            "title": "Advanced commercial lighting focus",
+            "text": "KingOrnan strengthened magnetic track lighting and higher-value commercial lighting systems."
+          },
+          {
+            "year": "2024",
+            "title": "FLOSEEK established",
+            "text": "FLOSEEK was established as KingOrnan's high-end lighting sub-brand, with acoustic lighting as the primary product category."
+          },
+          {
+            "year": "Now",
+            "title": "Acoustic lighting partner",
+            "text": "We develop PET Felt Acoustic Pendant Lights, linear lights and custom acoustic lighting systems for global B2B buyers."
+          }
+        ]
+      },
+      "cta": {
+        "eyebrow": "Work With Us",
+        "title": "Ready to build your next acoustic lighting project?",
+        "text": "Share your target product, quantity, market, certification needs and design requirements. Our team will help confirm a practical solution.",
+        "button": "Send project requirements"
+      }
+    },
+    "restaurantHospitality": {
+      "seo": {
+        "title": "Restaurant & Hospitality Acoustic Lighting Projects | FLOSEEK",
+        "description": "Explore restaurant, cafe and hotel acoustic lighting applications using PET Felt pendant lights for warmer ambience, speech comfort and project-ready customization."
+      },
+      "hero": {
+        "eyebrow": "Restaurant & Hospitality",
+        "title": "Acoustic lighting for warm dining and hotel comfort.",
+        "text": "FLOSEEK PET Felt acoustic luminaires combine soft hospitality lighting, sound-absorbing surfaces and customizable forms for restaurants, cafes, hotel lobbies and guest-facing lounges.",
+        "primaryCta": "Discuss a hospitality project",
+        "secondaryCta": "View hospitality cases",
+        "image": "/assets/img/applications/restaurant-hospitality/harbor-view-restaurant-ko-xym-0185-corrected.png",
+        "imageAlt": "Restaurant dining room with KO-XYM-0185 slatted drum PET Felt acoustic pendant lights",
+        "proof": [
+          "Restaurant",
+          "Cafe",
+          "Hotel lobby",
+          "Guest lounge"
+        ]
+      },
+      "intro": {
+        "eyebrow": "Application Fit",
+        "title": "Shape the atmosphere while reducing hard-surface dining noise.",
+        "text": "Hospitality interiors often use timber, stone, glass and open seating plans that make conversation noise feel harder. PET Felt acoustic lighting places absorptive material near tables, counters and lounge seating while keeping the ceiling feature visually warm and decorative.",
+        "items": [
+          {
+            "title": "Dining comfort",
+            "text": "Use acoustic pendants above booths, communal tables and private dining rooms to soften the sound field around guests."
+          },
+          {
+            "title": "Warm visual identity",
+            "text": "Canopy, drum, ring and petal forms bring a softer material language than metal or glass pendants."
+          },
+          {
+            "title": "Project coordination",
+            "text": "Confirm felt color, CCT, dimming, suspension height and packaging around the restaurant or hotel brand palette."
+          }
+        ]
+      },
+      "cases": {
+        "eyebrow": "Project Cases",
+        "title": "Hospitality case studies inspired by real project requirements.",
+        "text": "These original case studies follow the information style of completed project references: location, sector, project team, product model, lighting scope and practical outcomes. Names and details are newly written for FLOSEEK and are not copied from the reference site.",
+        "items": [
+          {
+            "name": "Harbor View Social Dining Room",
+            "location": "Rotterdam, Netherlands",
+            "sector": "Hotel restaurant and private dining",
+            "designRole": "Hospitality design studio and local lighting contractor",
+            "product": "Charcoal slatted PET Felt drum pendants, 3000K, table-group dimming scenes",
+            "models": [
+              {
+                "code": "KO-XYM-0185",
+                "name": "Slatted Drum Acoustic Pendant",
+                "href": "/products/acoustic-pendant-lights/ko-xym-0185-drum-pendant"
+              }
+            ],
+            "image": "/assets/img/applications/restaurant-hospitality/harbor-view-restaurant-ko-xym-0185-corrected.png",
+            "alt": "Upscale restaurant with KO-XYM-0185 slatted drum acoustic pendant lights above banquette tables",
+            "brief": "A hotel restaurant wanted a warmer ceiling feature above booth seating without adding separate acoustic rafts. Repeated KO-XYM-0185 drum pendants created a calm rhythm over the dining plan while adding felt surface close to conversation zones.",
+            "results": [
+              "Warm 3000K output supported dinner service ambience",
+              "Vertical felt ribs softened the timber-and-stone interior",
+              "Pendant spacing followed booth and two-seat table modules"
+            ]
+          },
+          {
+            "name": "Arcade House Lobby Lounge",
+            "location": "Singapore",
+            "sector": "Boutique hotel lobby and lounge seating",
+            "designRole": "Interior architect, lighting designer and procurement partner",
+            "product": "Taupe and charcoal ribbed acoustic ring pendants, CRI 90, DALI dimming",
+            "models": [
+              {
+                "code": "KO-XYM-0024",
+                "name": "Ribbed Acoustic Ring Pendant",
+                "href": "/products/acoustic-pendant-lights/ko-xym-0024-ring-family"
+              }
+            ],
+            "image": "/assets/img/applications/restaurant-hospitality/arcade-hotel-lobby-ko-xym-0024-corrected.png",
+            "alt": "Boutique hotel lobby lounge with KO-XYM-0024 ribbed acoustic ring pendant lights",
+            "brief": "The lobby lounge needed a premium ceiling gesture that could work from daytime check-in to evening drinks. Oversized KO-XYM-0024 ring pendants defined seating clusters and introduced acoustic felt above reflective stone and glass surfaces.",
+            "results": [
+              "Large circular forms gave the lounge a clear arrival signal",
+              "Dimming scenes separated daytime reception and evening lounge moods",
+              "Felt tones coordinated with upholstery and walnut wall panels"
+            ]
+          },
+          {
+            "name": "Garden Lane Breakfast Cafe",
+            "location": "Melbourne, Australia",
+            "sector": "Lifestyle hotel cafe and breakfast bar",
+            "designRole": "Cafe operator, fit-out contractor and electrical installer",
+            "product": "Sand and terracotta canopy felt pendants, warm integrated LED, counter rows",
+            "models": [
+              {
+                "code": "KO-XYM-0127",
+                "name": "Canopy Felt Pendant Lamp",
+                "href": "/products/acoustic-pendant-lights/ko-xym-0127-canopy-felt-pendant"
+              }
+            ],
+            "image": "/assets/img/applications/restaurant-hospitality/garden-cafe-ko-xym-0127-corrected.png",
+            "alt": "Cafe bar with KO-XYM-0127 soft canopy PET Felt pendant lamps above counter seating",
+            "brief": "A hotel cafe needed softer table lighting for breakfast service and a more relaxed material finish than hard metal shades. KO-XYM-0127 canopy pendants were placed above the counter and cafe tables to connect lighting with the warm interior palette.",
+            "results": [
+              "Canopy form kept the bar area visually light and approachable",
+              "Felt colors echoed terracotta seating and pale oak joinery",
+              "Suspension heights were planned around counter sightlines"
+            ]
+          }
+        ]
+      },
+      "spec": {
+        "eyebrow": "Specification Notes",
+        "title": "Typical choices for restaurant and hospitality acoustic lighting.",
+        "rows": [
+          {
+            "label": "Recommended products",
+            "value": "Drum pendants, ribbed ring pendants, canopy felt pendants, petal pendants and disc felt pendants"
+          },
+          {
+            "label": "Common CCT",
+            "value": "2700K-3000K for restaurants, bars and hotel lounges; 3500K where brighter cafe service is needed"
+          },
+          {
+            "label": "Control options",
+            "value": "Non-dim, 1-10V or DALI for dining, reception and event scenes"
+          },
+          {
+            "label": "Customization",
+            "value": "Pendant diameter, felt color, suspension length, LED output, dimming, carton labels and project packaging"
+          }
+        ]
+      },
+      "cta": {
+        "eyebrow": "Start a Hospitality Inquiry",
+        "title": "Send your seating plan, ceiling height and target atmosphere.",
+        "text": "FLOSEEK can help match product family, felt color, pendant size, wattage, CCT and control method for restaurants, cafes, hotels and guest-facing lounges.",
+        "button": "Request hospitality project support"
+      }
+    },
+    "commercialInteriors": {
+      "seo": {
+        "title": "Commercial Interiors Acoustic Lighting Projects | FLOSEEK",
+        "description": "Explore commercial interiors acoustic lighting applications for retail showrooms, reception areas, lounges and public interiors using PET Felt lighting products."
+      },
+      "hero": {
+        "eyebrow": "Commercial Interiors",
+        "title": "Acoustic lighting for retail, reception and shared interiors.",
+        "text": "FLOSEEK helps commercial interiors combine brand atmosphere, comfortable light and PET Felt acoustic material in one project-ready lighting package.",
+        "primaryCta": "Discuss a commercial project",
+        "secondaryCta": "View commercial cases",
+        "image": "/assets/img/applications/commercial-interiors/gallery-retail-ko-xym-0139-corrected.png",
+        "imageAlt": "Retail showroom with KO-XYM-0139 square-frame PET Felt acoustic pendant lights",
+        "proof": [
+          "Retail",
+          "Reception",
+          "Public lounge",
+          "Clubhouse"
+        ]
+      },
+      "intro": {
+        "eyebrow": "Application Fit",
+        "title": "Create recognizable zones without adding visual clutter.",
+        "text": "Retail, reception and shared amenity spaces need lighting that supports product display, wayfinding and acoustic comfort. PET Felt acoustic luminaires can define zones above counters, display tables, waiting benches and lounge seating while keeping material finishes coordinated.",
+        "items": [
+          {
+            "title": "Brand-ready interiors",
+            "text": "Use felt color and fixture geometry to reinforce the project palette without relying on signage or decorative clutter."
+          },
+          {
+            "title": "Zoned light and sound",
+            "text": "Place acoustic luminaires over display, waiting, consultation and lounge areas where people gather and speak."
+          },
+          {
+            "title": "Procurement support",
+            "text": "Coordinate model selection, quantity schedules, packaging labels and replacement parts for repeat commercial rollouts."
+          }
+        ]
+      },
+      "cases": {
+        "eyebrow": "Project Cases",
+        "title": "Commercial interior case studies for project buyers and designers.",
+        "text": "The following original examples are written in a real project-reference format while using newly generated scene imagery and FLOSEEK product models.",
+        "items": [
+          {
+            "name": "Gallery Row Lifestyle Showroom",
+            "location": "Milan, Italy",
+            "sector": "Furniture and lifestyle retail showroom",
+            "designRole": "Retail design studio and lighting consultant",
+            "product": "Charcoal square-frame PET Felt acoustic pendant lights, display-table alignment",
+            "models": [
+              {
+                "code": "KO-XYM-0139",
+                "name": "Square Acoustic Pendant Light",
+                "href": "/products/acoustic-pendant-lights/ko-xym-0139-acoustic-pendant-light"
+              }
+            ],
+            "image": "/assets/img/applications/commercial-interiors/gallery-retail-ko-xym-0139-corrected.png",
+            "alt": "Retail showroom with KO-XYM-0139 square acoustic pendant lights above display tables",
+            "brief": "A lifestyle showroom needed a lighting feature that could organize loose furniture displays while keeping the ceiling visually quiet. KO-XYM-0139 square acoustic pendants were aligned above display tables to frame product zones and add felt texture to the open retail floor.",
+            "results": [
+              "Square geometry echoed modular display plinths",
+              "Integrated downlight improved table merchandising",
+              "Charcoal felt created contrast without heavy ceiling panels"
+            ]
+          },
+          {
+            "name": "City Center Tenant Reception",
+            "location": "Shenzhen, China",
+            "sector": "Commercial building reception and waiting area",
+            "designRole": "Commercial interior contractor and electrical consultant",
+            "product": "Warm grey and teal PET Felt wall/ceiling acoustic luminaires behind reception",
+            "models": [
+              {
+                "code": "KO-XYM-0215",
+                "name": "Acoustic Ceiling & Wall Light",
+                "href": "/products/acoustic-ceiling-wall-lighting/ko-xym-0215-acoustic-ceiling-wall-light"
+              }
+            ],
+            "image": "/assets/img/applications/commercial-interiors/city-center-reception-ko-xym-0215.webp",
+            "alt": "Commercial reception area with KO-XYM-0215 PET Felt acoustic wall and ceiling lighting",
+            "brief": "The reception area needed a visible acoustic feature that would not compete with the stone desk and timber wall. KO-XYM-0215 felt light panels were composed behind the counter and above the waiting bench to combine soft glow with acoustic surface.",
+            "results": [
+              "Rounded panels gave the reception wall a calmer identity",
+              "Felt colors connected the desk backdrop and waiting area",
+              "Wall-light layout kept ceiling services accessible"
+            ]
+          },
+          {
+            "name": "Northbank Clubhouse Work Lounge",
+            "location": "London, United Kingdom",
+            "sector": "Serviced-office clubhouse and shared lounge",
+            "designRole": "Amenity-space designer, furniture partner and installer",
+            "product": "Acoustic floor lamps beside sofas plus layered disc felt pendants over shared tables",
+            "models": [
+              {
+                "code": "KO-XYM-0198",
+                "name": "Acoustic Floor Lamp",
+                "href": "/products/acoustic-floor-lamps/ko-xym-0198-acoustic-floor-lamp"
+              },
+              {
+                "code": "KO-XYM-0121",
+                "name": "Disc Felt Pendant Light",
+                "href": "/products/acoustic-pendant-lights/ko-xym-0121-disc-felt-pendant"
+              }
+            ],
+            "image": "/assets/img/applications/commercial-interiors/clubhouse-lounge-ko-xym-0198-ko-xym-0121.webp",
+            "alt": "Commercial clubhouse lounge with KO-XYM-0198 acoustic floor lamps and KO-XYM-0121 disc felt pendants",
+            "brief": "A clubhouse lounge needed softer light around sofas while keeping shared work tables brighter. Acoustic floor lamps provided movable comfort near seating, while layered disc pendants created a quieter ceiling focus above communal tables.",
+            "results": [
+              "Floor lamps supported flexible lounge reconfiguration",
+              "Disc pendants identified shared work tables without partitions",
+              "Warm-neutral lighting kept the space suitable for work and evening events"
+            ]
+          }
+        ]
+      },
+      "spec": {
+        "eyebrow": "Specification Notes",
+        "title": "Typical choices for commercial interior acoustic lighting projects.",
+        "rows": [
+          {
+            "label": "Recommended products",
+            "value": "Square acoustic pendants, wall/ceiling acoustic lights, disc pendants, acoustic floor lamps and custom linear lights"
+          },
+          {
+            "label": "Common CCT",
+            "value": "3000K for lounges and hospitality-like retail, 3500K-4000K for reception and display tasks"
+          },
+          {
+            "label": "Control options",
+            "value": "Non-dim, 1-10V or DALI depending on retail scenes, reception hours and event use"
+          },
+          {
+            "label": "Customization",
+            "value": "Felt color, fixture geometry, mounting type, quantity schedule, carton marks, OEM labels and documentation"
+          }
+        ]
+      },
+      "cta": {
+        "eyebrow": "Start a Commercial Interior Inquiry",
+        "title": "Send the space type, reflected ceiling plan and desired design effect.",
+        "text": "FLOSEEK can support product selection, felt color matching, layout advice, sample planning and quotation for retail, reception, public lounge and commercial fit-out projects.",
+        "button": "Request commercial project support"
+      }
+    }
+  }
+}

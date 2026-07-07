@@ -47,7 +47,7 @@ export function useSiteInteractions() {
     };
     navToggle?.addEventListener("click", onNavToggleClick);
 
-    const navLinks = Array.from(nav?.querySelectorAll("a, button.language-option") || []);
+    const navLinks = Array.from(nav?.querySelectorAll("a") || []);
     const onNavLinkClick = () => {
       nav?.classList.remove("is-open");
       navToggle?.setAttribute("aria-expanded", "false");

@@ -1,19 +1,16 @@
 import { HomePage } from "../components/pages/HomePage";
-import { getMessages } from "../i18n/messages";
-import { createMetadata } from "../i18n/routing";
+import content from "../content/siteContent.json";
+import { createPageMetadata } from "../lib/metadata";
 
-export async function generateMetadata() {
-  const messages = await getMessages("en");
-  return createMetadata({
-    locale: "en",
+export function generateMetadata() {
+  return createPageMetadata({
     pathname: "/",
-    title: messages.pages.home.seo.title,
-    description: messages.pages.home.seo.description,
-    images: [{ url: "https://www.kingornan.com/assets/img/home/banner.webp" }]
+    title: content.pages.home.seo.title,
+    description: content.pages.home.seo.description,
+    images: [{ url: "/assets/img/home/banner.webp" }]
   });
 }
 
-export default async function Page() {
-  const messages = await getMessages("en");
-  return <HomePage locale="en" messages={messages} currentPath="/" />;
+export default function Page() {
+  return <HomePage content={content} />;
 }

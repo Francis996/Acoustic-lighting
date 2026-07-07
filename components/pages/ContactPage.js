@@ -2,14 +2,15 @@
 
 import { SiteFooter } from "../SiteFooter";
 import { SiteHeader } from "../SiteHeader";
-import { InquiryHiddenFields, inquiryAction } from "../inquiryConfig";
+import { InlineContactCta } from "../InlineContactCta";
+import { InquiryHiddenFields, PhoneWhatsAppField, inquiryAction } from "../inquiryConfig";
 
-export function ContactPage({ locale, messages, currentPath }) {
-  const page = messages.pages.contact;
+export function ContactPage({ content }) {
+  const page = content.pages.contact;
 
   return (
     <>
-      <SiteHeader locale={locale} currentPath={currentPath} messages={messages} ctaHref="#contact-form" />
+      <SiteHeader content={content} ctaHref="#contact-form" />
       <main className="contact-page">
         <section className="contact-hero section-dark">
           <div className="hero-bg"></div>
@@ -19,7 +20,7 @@ export function ContactPage({ locale, messages, currentPath }) {
               <h1>{page.hero.title}</h1>
               <p>{page.hero.text}</p>
               <div className="contact-hero-actions">
-                <a className="btn primary" href="#contact-form">{page.hero.primaryCta}</a>
+                <a className="btn primary" href="#contact-form" data-contact-popup>{page.hero.primaryCta}</a>
                 <a className="btn glass" href="https://wa.me/8615888067484" target="_blank" rel="noopener">
                   {page.hero.secondaryCta}
                 </a>
@@ -34,6 +35,7 @@ export function ContactPage({ locale, messages, currentPath }) {
               </div>
               <label>{page.form.name}<input type="text" name="Name" placeholder={page.form.placeholders.name} required /></label>
               <label>{page.form.email}<input type="email" name="Email" placeholder={page.form.placeholders.email} required /></label>
+              <PhoneWhatsAppField />
               <label>{page.form.company}<input type="text" name="Company" placeholder={page.form.placeholders.company} /></label>
               <label>{page.form.country}<input type="text" name="Country" placeholder={page.form.placeholders.country} /></label>
               <label>
@@ -67,6 +69,12 @@ export function ContactPage({ locale, messages, currentPath }) {
                 </a>
               ))}
             </div>
+            <InlineContactCta
+              eyebrow="Quick Inquiry"
+              title="Prefer a shorter project inquiry form?"
+              text="Open the popup and send name, email, phone or WhatsApp, plus the model or project question."
+              cta="Open quick form"
+            />
           </div>
         </section>
 
@@ -85,6 +93,12 @@ export function ContactPage({ locale, messages, currentPath }) {
                 </article>
               ))}
             </div>
+            <InlineContactCta
+              eyebrow="Sales Routing"
+              title="Not sure which team should handle your request?"
+              text="Send the basics and we will route quotation, MOQ, drawings, engineering or delivery questions to the right contact."
+              cta="Ask our team"
+            />
           </div>
         </section>
 
@@ -94,11 +108,11 @@ export function ContactPage({ locale, messages, currentPath }) {
               <p className="eyebrow">{page.ctaSection.eyebrow}</p>
               <h2>{page.ctaSection.title}</h2>
             </div>
-            <a className="btn primary" href="#contact-form">{page.ctaSection.cta}</a>
+            <a className="btn primary" href="#contact-form" data-contact-popup>{page.ctaSection.cta}</a>
           </div>
         </section>
       </main>
-      <SiteFooter locale={locale} messages={messages} />
+      <SiteFooter content={content} />
     </>
   );
 }

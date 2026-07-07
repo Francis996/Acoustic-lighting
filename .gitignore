@@ -2,6 +2,7 @@
 .next
 node_modules
 outputs
+**/_backup-before-*/
 
 # logs
 npm-debug.log*

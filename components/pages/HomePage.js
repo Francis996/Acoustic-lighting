@@ -2,23 +2,30 @@
 
 import { SiteFooter } from "../SiteFooter";
 import { SiteHeader } from "../SiteHeader";
-import { InquiryHiddenFields, inquiryAction, inquiryEmail, mailtoHref } from "../inquiryConfig";
-import { localizeHref } from "../../i18n/routing";
+import { InlineContactCta } from "../InlineContactCta";
+import { InquiryHiddenFields, PhoneWhatsAppField, inquiryAction, inquiryEmail, mailtoHref } from "../inquiryConfig";
+import { absoluteUrl } from "../../lib/metadata";
 
-export function HomePage({ locale, messages, currentPath }) {
-  const page = messages.pages.home;
+export function HomePage({ content }) {
+  const page = content.pages.home;
 
   const structuredData = {
     "@context": "https://schema.org",
     "@graph": [
       {
         "@type": "Organization",
-        name: "Ningbo King Ornan Technology Co., Ltd.",
-        alternateName: "KingOrnan",
-        url: "https://www.kingornan.com/",
-        logo: "https://www.kingornan.com/assets/img/brand/kingornan-logo-header.png",
+        name: "FLOSEEK",
+        alternateName: "FLOSEEK Acoustic Lighting",
+        url: absoluteUrl("/"),
+        logo: absoluteUrl("/assets/img/brand/floseek-logo-header.png"),
         email: inquiryEmail,
         telephone: "+86 15888067484",
+        foundingDate: "2024",
+        parentOrganization: {
+          "@type": "Organization",
+          name: "KingOrnan",
+          url: "https://www.kingornan.com/"
+        },
         address: {
           "@type": "PostalAddress",
           addressLocality: "Ningbo / Zhongshan",
@@ -28,8 +35,8 @@ export function HomePage({ locale, messages, currentPath }) {
       },
       {
         "@type": "WebSite",
-        name: "KingOrnan Acoustic Lighting",
-        url: "https://www.kingornan.com/"
+        name: "FLOSEEK Acoustic Lighting",
+        url: absoluteUrl("/")
       },
       {
         "@type": "FAQPage",
@@ -51,7 +58,7 @@ export function HomePage({ locale, messages, currentPath }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
-      <SiteHeader locale={locale} currentPath={currentPath} messages={messages} />
+      <SiteHeader content={content} />
       <main id="top">
         <section className="hero section-dark">
           <div className="hero-bg"></div>
@@ -61,10 +68,10 @@ export function HomePage({ locale, messages, currentPath }) {
               <h1>{page.hero.title}</h1>
               <p className="hero-lead">{page.hero.lead}</p>
               <div className="hero-actions">
-                <a className="btn primary" href={localizeHref(locale, "/contact")}>
+                <a className="btn primary" href="/contact" data-contact-popup>
                   {page.hero.primaryCta}
                 </a>
-                <a className="btn glass" href={localizeHref(locale, "/#products")}>
+                <a className="btn glass" href="/#products">
                   {page.hero.secondaryCta}
                 </a>
               </div>
@@ -115,7 +122,7 @@ export function HomePage({ locale, messages, currentPath }) {
                 </article>
               ))}
             </div>
-            <a className="trust-cta" href={localizeHref(locale, "/contact")}>
+            <a className="trust-cta" href="/contact" data-contact-popup>
               {page.trustStrip.cta}
             </a>
           </div>
@@ -137,7 +144,7 @@ export function HomePage({ locale, messages, currentPath }) {
                     <p>{item.number}</p>
                     <h3>{item.title}</h3>
                     <span>{item.text}</span>
-                    <a href={localizeHref(locale, item.href)}>{item.cta}</a>
+                    <a href={item.href}>{item.cta}</a>
                   </div>
                 </article>
               ))}
@@ -147,10 +154,17 @@ export function HomePage({ locale, messages, currentPath }) {
                   <p>{page.products.accent.number}</p>
                   <h3>{page.products.accent.title}</h3>
                   <span>{page.products.accent.text}</span>
-                  <a href={localizeHref(locale, "/#oem")}>{page.products.accent.cta}</a>
+                  <a href="/custom-acoustic-lighting-solutions">{page.products.accent.cta}</a>
                 </div>
               </article>
             </div>
+
+            <InlineContactCta
+              eyebrow="Product Selection"
+              title="Need help matching a KO model to your project?"
+              text="Send room type, quantity, target CCT, dimming and felt color. We will suggest suitable acoustic lighting families before quotation."
+              cta="Ask for model advice"
+            />
           </div>
         </section>
 
@@ -200,13 +214,24 @@ export function HomePage({ locale, messages, currentPath }) {
                 "/assets/img/home/app-education.webp",
                 "/assets/img/home/app-hospitality.webp",
                 "/assets/img/home/app-commercial.webp"
-              ].map((src, index) => (
-                <article className={`app-card reveal delay-${index}`} key={src}>
-                  <img src={src} alt={page.applications.items[index].alt} width="700" height="700" loading="lazy" />
-                  <strong>{page.applications.items[index].title}</strong>
-                </article>
-              ))}
+              ].map((src, index) => {
+                const item = page.applications.items[index];
+
+                return (
+                  <a className={`app-card reveal delay-${index}`} href={item.href || "#applications"} key={src}>
+                    <img src={src} alt={item.alt} width="700" height="700" loading="lazy" />
+                    <strong>{item.title}</strong>
+                  </a>
+                );
+              })}
             </div>
+
+            <InlineContactCta
+              eyebrow="Application Support"
+              title="Have drawings or a room layout to check?"
+              text="Share the application scene and ceiling condition so our team can recommend acoustic lighting placement and product options."
+              cta="Discuss your space"
+            />
           </div>
         </section>
 
@@ -233,6 +258,14 @@ export function HomePage({ locale, messages, currentPath }) {
                 <span key={tag}>{tag}</span>
               ))}
             </div>
+
+            <InlineContactCta
+              eyebrow="OEM / ODM"
+              title="Planning a custom acoustic lighting order?"
+              text="Send target size, shape, brand color, packaging and market requirements for a practical development check."
+              cta="Start custom inquiry"
+              variant="dark"
+            />
           </div>
         </section>
 
@@ -318,6 +351,7 @@ export function HomePage({ locale, messages, currentPath }) {
                 {page.contact.form.email}
                 <input type="email" name="Email" placeholder={page.contact.form.placeholders.email} required />
               </label>
+              <PhoneWhatsAppField />
               <label>
                 {page.contact.form.country}
                 <input type="text" name="Country" placeholder={page.contact.form.placeholders.country} />
@@ -342,7 +376,7 @@ export function HomePage({ locale, messages, currentPath }) {
           </div>
         </section>
       </main>
-      <SiteFooter locale={locale} messages={messages} />
+      <SiteFooter content={content} />
     </>
   );
 }

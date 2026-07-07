@@ -64,3 +64,16 @@ const observer = new IntersectionObserver(
 );
 
 document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+
+const trendingTrack = document.querySelector('[data-trending-track]');
+
+document.querySelectorAll('[data-trending-scroll]').forEach((button) => {
+  button.addEventListener('click', () => {
+    const direction = Number(button.getAttribute('data-trending-scroll') || 1);
+
+    trendingTrack?.scrollBy({
+      left: direction * Math.min(trendingTrack.clientWidth, 520),
+      behavior: 'smooth'
+    });
+  });
+});

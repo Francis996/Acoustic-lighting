@@ -1,43 +1,57 @@
-import { localizeHref } from "../i18n/routing";
 import { inquiryEmail, mailtoHref } from "./inquiryConfig";
+import { TrendingNow } from "./TrendingNow";
 
-export function SiteFooter({ locale, messages }) {
-  const footer = messages.footer;
+function FooterLink({ item }) {
+  const isExternal = item.href.startsWith("http://") || item.href.startsWith("https://");
+
+  return (
+    <a
+      href={item.href}
+      target={isExternal ? "_blank" : undefined}
+      rel={isExternal ? "noopener noreferrer" : undefined}
+    >
+      {item.title}
+    </a>
+  );
+}
+
+export function SiteFooter({ content }) {
+  const footer = content.footer;
 
   return (
     <>
+      <TrendingNow />
       <footer className="site-footer">
         <div className="wrap footer-grid">
           <div>
             <a
               className="brand footer-brand"
-              href={localizeHref(locale, "/")}
-              aria-label={messages.common.brandAriaLabel}
+              href="/"
+              aria-label={content.common.brandAriaLabel}
             >
               <img
                 className="brand-logo"
-                src="/assets/img/brand/kingornan-logo-header.png"
-                alt={messages.common.logoAlt}
-                width="118"
-                height="88"
+                src="/assets/img/brand/floseek-logo-header.png"
+                alt={content.common.logoAlt}
+                width="560"
+                height="135"
               />
             </a>
             <p>{footer.description}</p>
+            <a className="footer-project-cta" href="/contact" data-contact-popup>
+              Contact us for project support
+            </a>
           </div>
           <nav>
             <strong>{footer.productsTitle}</strong>
             {footer.productsLinks.map((item) => (
-              <a href={localizeHref(locale, item.href)} key={item.title}>
-                {item.title}
-              </a>
+              <FooterLink item={item} key={item.title} />
             ))}
           </nav>
           <nav>
             <strong>{footer.companyTitle}</strong>
             {footer.companyLinks.map((item) => (
-              <a href={localizeHref(locale, item.href)} key={item.title}>
-                {item.title}
-              </a>
+              <FooterLink item={item} key={item.title} />
             ))}
           </nav>
           <address>
@@ -58,7 +72,7 @@ export function SiteFooter({ locale, messages }) {
         href="https://wa.me/8615888067484"
         target="_blank"
         rel="noopener"
-        aria-label={messages.common.whatsappAriaLabel}
+        aria-label={content.common.whatsappAriaLabel}
       >
         WhatsApp
       </a>

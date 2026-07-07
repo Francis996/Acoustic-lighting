@@ -1,21 +1,18 @@
 import { CollectionPage } from "../../../components/pages/CollectionPage";
-import { getMessages } from "../../../i18n/messages";
-import { createMetadata } from "../../../i18n/routing";
+import content from "../../../content/siteContent.json";
+import { createPageMetadata } from "../../../lib/metadata";
 
 const pathname = "/products/acoustic-pendant-lights";
 
-export async function generateMetadata() {
-  const messages = await getMessages("en");
-  return createMetadata({
-    locale: "en",
+export function generateMetadata() {
+  return createPageMetadata({
     pathname,
-    title: messages.pages.collection.seo.title,
-    description: messages.pages.collection.seo.description,
-    images: [{ url: "https://www.kingornan.com/assets/img/pendant/image533.jpeg" }]
+    title: content.pages.collection.seo.title,
+    description: content.pages.collection.seo.description,
+    images: [{ url: "/assets/img/pendant/image533.jpeg" }]
   });
 }
 
-export default async function Page() {
-  const messages = await getMessages("en");
-  return <CollectionPage locale="en" messages={messages} currentPath={pathname} />;
+export default function Page() {
+  return <CollectionPage content={content} />;
 }
