@@ -173,8 +173,8 @@ export const faqGroups = [
         answer: "FLOSEEK works through the KingOrnan support system, with sales support in Ningbo, Zhejiang, China and manufacturing support in Zhongshan, Guangdong, China."
       },
       {
-        question: "When was FLOSEEK founded?",
-        answer: "FLOSEEK was founded in 2024 as a high-end lighting sub-brand under KingOrnan, with acoustic lighting as its main product category."
+        question: "When was FLOSEEK registered as a brand?",
+        answer: "KingOrnan began acoustic lighting development in 2024. FLOSEEK was officially registered as a brand in 2025 under KingOrnan, with acoustic lighting as its main product category."
       },
       {
         question: "Who should I contact if my question is not listed?",

@@ -138,11 +138,11 @@ export function AboutPage({ content }) {
                 <p key={text}>{text}</p>
               ))}
               <p className="brand-parent-note">
-                FLOSEEK is a high-end lighting sub-brand under{" "}
+                FLOSEEK is an acoustic lighting brand under{" "}
                 <a href="https://www.kingornan.com/" target="_blank" rel="noopener noreferrer">
                   KingOrnan
                 </a>
-                , founded in 2024 with acoustic lighting as its core product category.
+                , officially registered in 2025 after KingOrnan began acoustic lighting development in 2024.
               </p>
             </div>
             <div className="quote-panel reveal delay-1">

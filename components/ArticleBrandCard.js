@@ -24,8 +24,9 @@ export function ArticleBrandCard() {
 
         <h2>Need a custom acoustic lighting plan?</h2>
         <p>
-          FLOSEEK is KingOrnan&apos;s high-end lighting sub-brand, established
-          in 2024 with acoustic lighting as its core product category.
+          KingOrnan began acoustic lighting development in 2024. FLOSEEK was
+          officially registered as a brand in 2025 with acoustic lighting as
+          its core product category.
         </p>
 
         <div className="article-brand-stats" aria-label="FLOSEEK and KingOrnan background">

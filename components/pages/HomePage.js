@@ -20,7 +20,7 @@ export function HomePage({ content }) {
         logo: absoluteUrl("/assets/img/brand/floseek-logo-header.png"),
         email: inquiryEmail,
         telephone: "+86 15888067484",
-        foundingDate: "2024",
+        foundingDate: "2025",
         parentOrganization: {
           "@type": "Organization",
           name: "KingOrnan",

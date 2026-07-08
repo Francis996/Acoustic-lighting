@@ -144,7 +144,7 @@
     }
   },
   "footer": {
-    "description": "FLOSEEK is a high-end acoustic lighting sub-brand focused on custom PET Felt lighting for global B2B projects.",
+    "description": "FLOSEEK is a KingOrnan acoustic lighting brand officially registered in 2025, focused on custom PET Felt lighting for global B2B projects.",
     "productsTitle": "Products",
     "productsLinks": [
       {
@@ -204,27 +204,27 @@
     "home": {
       "seo": {
         "title": "Custom PET Felt Acoustic Lighting Manufacturer | Acoustic Pendant Lights OEM/ODM | FLOSEEK",
-        "description": "FLOSEEK is a KingOrnan sub-brand for custom PET Felt Acoustic Lighting, with MOQ from 1 piece, fast samples, OEM/ODM support and global B2B supply."
+        "description": "FLOSEEK is a KingOrnan acoustic lighting brand officially registered in 2025, with MOQ from 1 piece, fast samples, OEM/ODM support and global B2B supply."
       },
       "hero": {
         "eyebrow": "OEM / ODM Acoustic Lighting Manufacturer",
         "title": "Custom PET Felt Acoustic Lighting for modern B2B projects.",
-        "lead": "FLOSEEK, founded in 2024 as a high-end lighting sub-brand under KingOrnan, integrates PET Felt acoustic materials with architectural LED lighting for offices, hospitality spaces and commercial projects.",
+        "lead": "KingOrnan began acoustic lighting development in 2024. FLOSEEK was officially registered as a brand in 2025, integrating PET Felt acoustic materials with architectural LED lighting for offices, hospitality spaces and commercial projects.",
         "primaryCta": "Get an Acoustic Lighting Quote",
         "secondaryCta": "View Product Range",
         "proofAriaLabel": "Company highlights",
         "proof": [
           {
             "value": "2024",
-            "label": "Founded"
+            "label": "Acoustic R&D began"
+          },
+          {
+            "value": "2025",
+            "label": "FLOSEEK registered"
           },
           {
             "value": "OEM/ODM",
             "label": "Custom Solution"
-          },
-          {
-            "value": "Global",
-            "label": "B2B Projects"
           }
         ],
         "imageAlt": "Custom PET Felt Acoustic Lighting hero image for FLOSEEK B2B projects",
@@ -1366,12 +1366,12 @@
     "about": {
       "seo": {
         "title": "About FLOSEEK | PET Felt Acoustic Lighting Manufacturer",
-        "description": "Learn about FLOSEEK, the high-end lighting sub-brand under KingOrnan, founded in 2024 with acoustic lighting as its core product category."
+        "description": "Learn about FLOSEEK, the KingOrnan acoustic lighting brand officially registered in 2025 after KingOrnan began acoustic lighting development in 2024."
       },
       "hero": {
         "eyebrow": "About FLOSEEK",
         "title": "A high-end acoustic lighting brand built for commercial project value.",
-        "lead": "FLOSEEK was founded in 2024 as a high-end lighting sub-brand under KingOrnan, with acoustic lighting as its main product category for design-led B2B projects.",
+        "lead": "KingOrnan began acoustic lighting development in 2024. FLOSEEK was officially registered as a brand in 2025 under KingOrnan, with acoustic lighting as its main product category for design-led B2B projects.",
         "primaryCta": "Talk to Alinna's team",
         "secondaryCta": "View factory capability",
         "founderImageAlt": "Alinna, founder of FLOSEEK",
@@ -1382,7 +1382,11 @@
       "proof": [
         {
           "value": "2024",
-          "label": "FLOSEEK founded"
+          "label": "Acoustic lighting R&D"
+        },
+        {
+          "value": "2025",
+          "label": "FLOSEEK registered"
         },
         {
           "value": "KingOrnan",
@@ -1391,18 +1395,14 @@
         {
           "value": "OEM/ODM",
           "label": "Custom project support"
-        },
-        {
-          "value": "Global",
-          "label": "B2B buyer support"
         }
       ],
       "story": {
         "eyebrow": "Our Story",
-        "title": "A focused sub-brand for high-end acoustic lighting.",
+        "title": "A focused brand for high-end acoustic lighting.",
         "paragraphs": [
-          "FLOSEEK was established in 2024 to focus on high-end acoustic lighting, especially PET Felt Acoustic Lighting for commercial interiors.",
-          "As a sub-brand under KingOrnan, FLOSEEK carries forward the parent brand's lighting manufacturing background while presenting a more focused identity for acoustic pendant, linear, ceiling, wall and floor lighting.",
+          "KingOrnan began acoustic lighting development in 2024, especially around PET Felt Acoustic Lighting for commercial interiors.",
+          "FLOSEEK was officially registered as a brand in 2025 under KingOrnan, carrying forward the parent brand's lighting manufacturing background while presenting a more focused identity for acoustic pendant, linear, ceiling, wall and floor lighting.",
           "Our main product category is acoustic lighting, combining sound-absorbing PET felt materials with architectural LED systems for offices, hospitality, education and commercial interiors.",
           "Today, FLOSEEK works as a focused acoustic lighting partner for buyers who need stable supply, custom development, clear communication and products that create value in their local market."
         ],
@@ -1453,8 +1453,13 @@
           },
           {
             "year": "2024",
-            "title": "FLOSEEK established",
-            "text": "FLOSEEK was established as KingOrnan's high-end lighting sub-brand, with acoustic lighting as the primary product category."
+            "title": "Acoustic lighting development began",
+            "text": "KingOrnan began acoustic lighting development, focusing on PET Felt Acoustic Lighting as a higher-value project category."
+          },
+          {
+            "year": "2025",
+            "title": "FLOSEEK brand registered",
+            "text": "FLOSEEK was officially registered as KingOrnan's acoustic lighting brand, with acoustic lighting as the primary product category."
           },
           {
             "year": "Now",
