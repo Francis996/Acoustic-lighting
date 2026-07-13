@@ -6954,7 +6954,7 @@ export const generatedProductDetails = {
       "text": "Available exact-model scenes show KO-XYM-0128 in office, meeting, hospitality and shared commercial interiors.",
       "images": [
         {
-          "src": "/assets/img/products/ko-xym-0128/ko-xym-0128-scene-01-enhanced.webp",
+          "src": "/assets/img/products/ko-xym-0128/ko-xym-0128-scene-01-hd.webp",
           "alt": "KO-XYM-0128 acoustic pendant light scene application",
           "label": "Scene application 1"
         },
@@ -9122,7 +9122,7 @@ export const generatedProductDetails = {
           "label": "Scene application 1"
         },
         {
-          "src": "/assets/img/products/ko-xym-0144/ko-xym-0144-scene-02-enhanced.webp",
+          "src": "/assets/img/products/ko-xym-0144/ko-xym-0144-scene-02-hd.webp",
           "alt": "KO-XYM-0144 acoustic pendant light scene application",
           "label": "Scene application 2"
         },
@@ -12633,7 +12633,7 @@ export const generatedProductDetails = {
           "label": "Scene application 2"
         },
         {
-          "src": "/assets/img/products/ko-xym-0189/ko-xym-0189-scene-03-enhanced.webp",
+          "src": "/assets/img/products/ko-xym-0189/ko-xym-0189-scene-03-hd.webp",
           "alt": "KO-XYM-0189 acoustic pendant light scene application",
           "label": "Scene application 3"
         }
@@ -14944,7 +14944,7 @@ export const generatedProductDetails = {
           "label": "Scene application 1"
         },
         {
-          "src": "/assets/img/products/ko-xym-0210/ko-xym-0210-scene-02-enhanced.webp",
+          "src": "/assets/img/products/ko-xym-0210/ko-xym-0210-scene-02-hd.webp",
           "alt": "KO-XYM-0210 acoustic linear light scene application",
           "label": "Scene application 2"
         },
