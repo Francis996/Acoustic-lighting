@@ -3689,8 +3689,12 @@ details p {
 .article-body {
   display: grid;
   gap: 34px;
+  min-width: 0;
   max-width: 920px;
   padding: 70px 0 90px;
+}
+.article-body > * {
+  min-width: 0;
 }
 .article-content-layout {
   display: grid;
@@ -3894,6 +3898,8 @@ details p {
   background: #f9fafb;
 }
 .article-table-wrap {
+  width: 100%;
+  max-width: 100%;
   overflow-x: auto;
   margin: 24px 0;
   border: 1px solid rgba(17,24,39,.1);

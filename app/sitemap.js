@@ -18,6 +18,7 @@ const paths = [
   "/applications/restaurant-hospitality",
   "/applications/commercial-interiors",
   "/blog",
+  "/blog/top-pet-felt-acoustic-lighting-manufacturers",
   "/blog/pet-felt-acoustic-material-lighting-guide",
   "/blog/led-acoustic-pendant-light-specification-guide",
   "/blog/pet-felt-acoustic-lighting-cost",

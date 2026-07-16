@@ -235,6 +235,11 @@ export default function Page() {
           <section className="article-section reveal">
             <h2>The Supplier Choice Decides More Than Unit Price</h2>
             <p>
+              Need names before you build the scorecard? Start with the unranked
+              <a href="/blog/top-pet-felt-acoustic-lighting-manufacturers"> 2026 shortlist of 15 PET felt acoustic lighting manufacturers and brands</a>,
+              then return to this guide to compare their evidence and project fit.
+            </p>
+            <p>
               Choosing a PET felt acoustic lighting manufacturer is one of the
               highest-risk decisions in an OEM or project order.
             </p>
