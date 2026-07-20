@@ -1,8 +1,9 @@
 import "./globals.css";
 import { ContactPopup } from "../components/ContactPopup";
+import { siteUrl } from "../lib/metadata";
 
 export const metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://floseek.com"),
+  metadataBase: new URL(siteUrl),
   robots: "index,follow",
   icons: {
     icon: [

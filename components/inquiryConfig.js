@@ -1,7 +1,7 @@
 export const inquiryEmail = "sales@kingornan.com";
 export const inquiryCcEmail = "francischen924@gmail.com";
 export const inquiryAction = `https://formsubmit.co/${inquiryEmail}`;
-export const inquiryRedirect = "https://floseek.com/contact";
+export const inquiryRedirect = "https://www.floseek.com/contact";
 
 export function mailtoHref(subject) {
   return `mailto:${inquiryEmail}?subject=${encodeURIComponent(subject)}`;
