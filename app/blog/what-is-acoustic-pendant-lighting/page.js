@@ -400,6 +400,8 @@ export default function Page() {
                 For projects that need measurable acoustic documentation, ask whether acoustic data is available for the
                 material or product configuration. ASTM C423 and ISO 354 are common reverberation-room methods for
                 measuring sound absorption, but test results still need to be interpreted against the actual room design.
+                Our guide to <a href="/blog/does-acoustic-lighting-really-work">whether acoustic lighting really works</a> explains
+                how surface area, frequency, quantity, room conditions and complete-object evidence change the answer.
               </p>
             </section>
 
