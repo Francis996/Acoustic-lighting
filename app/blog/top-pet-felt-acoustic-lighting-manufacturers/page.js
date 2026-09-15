@@ -7,10 +7,10 @@ import { mailtoHref } from "../../../components/inquiryConfig";
 import { absoluteUrl, createPageMetadata } from "../../../lib/metadata";
 
 const pathname = "/blog/top-pet-felt-acoustic-lighting-manufacturers";
-const title = "15 PET Felt Acoustic Lighting Manufacturers and Brands to Compare in 2026";
-const seoTitle = "15 PET Felt Acoustic Lighting Manufacturers to Compare (2026)";
+const title = "Top 15 PET Felt Acoustic Lighting Manufacturers: A Buyer’s Guide";
+const seoTitle = "Top 15 PET Felt Acoustic Lighting Manufacturers (2026)";
 const description =
-  "Compare 15 PET felt acoustic lighting manufacturers and brands by supplier type, project fit, documents, customization and RFQ readiness in 2026.";
+  "Compare 15 PET felt acoustic lighting manufacturers by supplier route, design fit, technical evidence, customization and RFQ readiness.";
 const heroImage = "/assets/img/products/ko-xym-0186/ko-xym-0186-scene-01-enhanced.webp";
 
 const supplierGroups = [
@@ -287,7 +287,7 @@ const faqs = [
   {
     question: "Is this a ranking of the 15 companies?",
     answer:
-      "No. The companies are grouped by buyer route, not ranked from best to worst. Inclusion means an active official acoustic-lighting offer was found during the July 2026 review; it is not an endorsement or a guarantee of current capability."
+      "No. The companies are grouped by buyer route, not ranked from best to worst. Inclusion means an active official acoustic-lighting offer was found during the September 2026 review; it is not an endorsement or a guarantee of current capability."
   },
   {
     question: "What is the difference between a manufacturer and an acoustic lighting brand?",
@@ -316,6 +316,9 @@ const relatedLinks = [
   ["PET Felt Acoustic Lighting Cost Guide", "/blog/pet-felt-acoustic-lighting-cost"],
   ["PET Felt Acoustic Material Lighting Guide", "/blog/pet-felt-acoustic-material-lighting-guide"],
   ["LED Acoustic Pendant Light Specification Guide", "/blog/led-acoustic-pendant-light-specification-guide"],
+  ["NRC, αw and Sabins Explained for Acoustic Lighting", "/blog/nrc-alpha-w-sabins-acoustic-lighting"],
+  ["Acoustic Pendant Light Placement: Height and Spacing", "/blog/acoustic-pendant-light-placement-guide"],
+  ["How to Reduce Restaurant Echo with Acoustic Lighting", "/blog/reduce-restaurant-echo-acoustic-pendant-lights"],
   ["How to Choose PET Felt Acoustic Pendant Lights", "/blog/how-to-choose-pet-felt-acoustic-pendant-lights"],
   ["Acoustic Pendant Lights", "/products/acoustic-pendant-lights"],
   ["Acoustic Linear Lights", "/products/acoustic-linear-lights"],
@@ -351,13 +354,13 @@ function SupplierProfile({ supplier }) {
     <div className="article-subsection">
       <h3>{supplier.name}</h3>
       {supplier.disclosure ? (
-        <p><strong>Publisher disclosure:</strong> FLOSEEK publishes this guide and is included because its current site offers acoustic-lighting products and OEM/ODM support. Treat this profile as a self-description and verify it independently, just as you should verify every supplier below.</p>
+        <p><strong>Disclosure:</strong> FLOSEEK publishes this guide and is included as a supplier. This profile reflects FLOSEEK’s own public information; use the same model-specific checks for it as for every other company in the list.</p>
       ) : null}
       <p><strong>Supplier type:</strong> {supplier.type} · <strong>Region:</strong> {supplier.region}</p>
       <p><strong>Good starting point for:</strong> {supplier.bestFor}</p>
       <p>{supplier.why}</p>
-      <p><strong>Verify before RFQ:</strong> {supplier.verify}</p>
-      <p><a href={supplier.source} target={supplier.source.startsWith("http") ? "_blank" : undefined} rel={supplier.source.startsWith("http") ? "noreferrer" : undefined}>Check {supplier.sourceLabel}</a></p>
+      <p><strong>Before sending an RFQ:</strong> {supplier.verify}</p>
+      <p><a href={supplier.source} target={supplier.source.startsWith("http") ? "_blank" : undefined} rel={supplier.source.startsWith("http") ? "noreferrer" : undefined}>Visit {supplier.sourceLabel}</a></p>
     </div>
   );
 }
@@ -379,7 +382,7 @@ export default function Page() {
     description,
     image: absoluteUrl(heroImage),
     datePublished: "2026-07-15",
-    dateModified: "2026-07-15",
+    dateModified: "2026-09-15",
     author: { "@type": "Organization", name: "FLOSEEK Acoustic Lighting" },
     publisher: {
       "@type": "Organization",
@@ -391,7 +394,7 @@ export default function Page() {
   const itemListSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: "PET felt acoustic lighting manufacturers and brands to compare in 2026",
+    name: "Top PET felt acoustic lighting manufacturers and brands to compare (reviewed September 2026)",
     itemListOrder: "https://schema.org/ItemListUnordered",
     numberOfItems: suppliers.length,
     itemListElement: suppliers.map((supplier, index) => ({
@@ -425,17 +428,17 @@ export default function Page() {
         <section className="article-hero section-dark">
           <div className="wrap article-hero-grid">
             <div className="article-hero-copy reveal">
-              <p className="eyebrow">2026 Supplier Shortlist</p>
+              <p className="eyebrow">B2B supplier comparison · 2026</p>
               <h1>{title}</h1>
-              <p>Use this unranked shortlist to find the right supplier route, then compare documents, lighting performance, acoustic evidence and total project scope.</p>
+              <p>Use this unranked shortlist to find the supplier route that fits your project, then compare the documents, lighting package, acoustic evidence and total scope.</p>
               <div className="hero-actions">
                 <a className="btn primary" href="#supplier-list">Compare the 15 Suppliers</a>
                 <a className="btn glass" href="#quote">Build an RFQ</a>
               </div>
             </div>
             <figure className="article-hero-media reveal delay-1">
-              <img src={heroImage} alt="Large yellow PET felt acoustic pendant lights in an open commercial office" width="1914" height="1920" loading="eager" />
-              <figcaption>FLOSEEK product application image used to illustrate the category; it is not presented as a project by any other company in this guide.</figcaption>
+              <img src={heroImage} alt="Yellow PET felt acoustic pendant lights in a commercial office" width="1914" height="1920" loading="eager" />
+              <figcaption>FLOSEEK PET felt acoustic pendants in a commercial office setting.</figcaption>
             </figure>
           </div>
         </section>
@@ -444,48 +447,41 @@ export default function Page() {
           <article className="article-body">
             <div className="article-meta reveal">
               <span>Unranked market shortlist</span>
-              <span>Reviewed 15 July 2026</span>
+              <span>Reviewed 15 September 2026</span>
               <span>Approx. 18 min read</span>
             </div>
 
             <section className="article-section reveal">
               <h2>Quick answer: use this list as a map, not a podium</h2>
               <p>The 15 companies below are not ranked from best to worst. They serve different buying routes. Some are strong starting points for custom OEM work; others are design brands, acoustic-material specialists or lighting-first manufacturers with formal specification support.</p>
-              <p>If you are buying a private-label pendant, a famous design brand may be the wrong fit. If you are specifying a public project with a local representative and a fixed submittal process, a flexible overseas factory may create extra work. The useful question is not "Who is number one?" It is "Which supplier type removes the most risk from this project?"</p>
+              <p>If you are buying a private-label pendant, a famous design brand may be the wrong fit. If you are specifying a public project with a local representative and a fixed submittal process, a flexible overseas factory may create extra work. The useful question is not “Who is number one?” It is “Which supplier type removes the most risk from this project?”</p>
               <ArticleTable columns={["Your main need", "Start with", "Compare first", "Companies in this guide"]} rows={routeRows} />
               <p>Once you choose a route, use the companion <a href="/blog/how-to-compare-pet-felt-acoustic-lighting-manufacturers">manufacturer evaluation guide</a> for deeper due diligence and the <a href="/blog/pet-felt-acoustic-lighting-cost">2026 cost guide</a> for quotation comparison.</p>
             </section>
 
             <section className="article-section reveal">
               <h2>How companies were selected</h2>
-              <p>We checked official company and product pages available on 15 July 2026. A company was included when its current site showed an identifiable acoustic-lighting offer relevant to PET felt or closely related fibrous acoustic products, plus a plausible route for a commercial buyer to request product information.</p>
+              <p>We checked official company and product pages on 15 September 2026. A company was included when its public information showed an identifiable acoustic-lighting offer relevant to PET felt or a closely related fibrous acoustic product, together with a clear route for a commercial buyer to request product information.</p>
               <BulletList items={[
-                "This is an editorial shortlist, not a laboratory comparison or sales-volume ranking.",
+                "This is a buyer-oriented shortlist, not a laboratory comparison, financial ranking or exhaustive market census.",
                 "The order follows supplier routes and reading flow; list position does not indicate quality.",
-                "Company descriptions are based on current official pages, then rewritten in buyer-focused language.",
+                "Each summary is based on an official company or product page, then translated into the questions a buyer needs to ask.",
                 "A live product page does not prove factory ownership, capacity, certification or suitability for your market.",
-                "Buyers should verify the contracting entity, product configuration, documents, lead time and warranty before order."
+                "Before ordering, verify the contracting entity, exact product configuration, documents, lead time and warranty."
               ]} />
-              <blockquote className="article-quote">FLOSEEK publishes this article and appears in the shortlist. That commercial relationship is disclosed here so readers can separate our self-description from an independent third-party review.</blockquote>
+              <blockquote className="article-quote">Disclosure: FLOSEEK publishes this guide and appears in the shortlist. Its entry is based on its own public information, and it should be checked against the same evidence requested from every other supplier.</blockquote>
             </section>
 
             <section className="article-section reveal">
               <h2>First, decide which supplier type you need</h2>
               <p>Searching for a manufacturer before defining the buying route is like calling every kind of vehicle a truck. They all move things, but a delivery van, a crane and a long-haul tractor solve different problems.</p>
               <p>For a custom project, control over drawings, colour and sample-to-bulk production can matter most. For a design specification, local representation and a finished collection may matter more. For an acoustic-led brief, the material and test framework deserves extra weight. For a lighting-led package, photometry, controls and submittals often lead the decision.</p>
-              <ArticleImage
-                src="/assets/img/linear/ko-xym-0162-meeting-scene.webp"
-                alt="Large PET felt acoustic pendant centered above a meeting-room table"
-                width="1342"
-                height="1444"
-                caption="A supplier should be chosen for the whole room brief: scale, light, acoustic surface, installation and service. FLOSEEK application image; not a competitor project reference."
-              />
             </section>
 
             <section className="article-section reveal" id="supplier-list">
-              <h2>2026 overview: 15 manufacturers and brands to compare</h2>
+              <h2>2026 shortlist: 15 manufacturers and brands to compare</h2>
               <ArticleTable columns={["Company", "Region", "Supplier route", "Good starting point for"]} rows={overviewRows} />
-              <p>Region describes the brand or main market position shown in official information; it does not prove where every component is manufactured. Ask directly when country of origin, factory audit or local-content rules matter.</p>
+              <p>Region describes the brand or market position shown in official information; it does not prove where every component is made. Ask directly when country of origin, factory audit or local-content rules matter.</p>
             </section>
 
             {supplierGroups.map((group, groupIndex) => (
@@ -507,7 +503,7 @@ export default function Page() {
                     alt="Magenta acoustic ceiling feature with integrated linear light in a dark hospitality lounge"
                     width="1357"
                     height="1159"
-                    caption="Design-led acoustic lighting can become part of the room identity, but the visual idea still needs a buildable lighting and installation package. FLOSEEK product scene; not a competitor project reference."
+                    caption="In a hospitality setting, acoustic lighting can shape the room’s identity while still requiring a defined lighting and installation package."
                   />
                 ) : null}
               </section>
@@ -525,7 +521,7 @@ export default function Page() {
               <h2>Request a document set that matches the exact product</h2>
               <p>A certificate is not a magic passport. It is closer to an ID card: it belongs to a named sample, method and scope. Before relying on a fire, acoustic, electrical or environmental claim, check whether the document describes the material or finished luminaire you intend to buy.</p>
               <BulletList items={documentSet} />
-              <p>For the material side, read the <a href="/blog/pet-felt-acoustic-material-lighting-guide">PET felt material guide</a>. For lumen, wattage, glare, CCT, CRI and drivers, use the <a href="/blog/led-acoustic-pendant-light-specification-guide">LED specification guide</a>. ISO 354 is one recognized method for measuring sound absorption in a reverberation room, but the test sample and mounting still determine what the result means. See the <a href="https://www.iso.org/standard/34545.html" target="_blank" rel="noreferrer">official ISO 354 overview</a>.</p>
+              <p>For the material side, read the <a href="/blog/pet-felt-acoustic-material-lighting-guide">PET felt material guide</a>. For lumen, wattage, glare, CCT, CRI and drivers, use the <a href="/blog/led-acoustic-pendant-light-specification-guide">LED specification guide</a>. The <a href="/blog/nrc-alpha-w-sabins-acoustic-lighting">NRC, αw and Sabins explainer</a> shows why a single acoustic number needs context. ISO 354 is one recognized method for measuring sound absorption in a reverberation room, but the test sample and mounting still determine what the result means. See the <a href="https://www.iso.org/standard/34545.html" target="_blank" rel="noreferrer">official ISO 354 overview</a>.</p>
             </section>
 
             <section className="article-section reveal">
@@ -552,7 +548,7 @@ export default function Page() {
               <h2>RFQ template for a fair supplier comparison</h2>
               <p>Send the same brief to three to five suppliers from the route that fits your project. A short but specific request will produce better answers than a long message filled with undefined claims.</p>
               <blockquote className="article-quote">Please quote PET felt acoustic pendant lights for a 60-seat office project in [country]. Quantity: [x]. Size and drawing: [attached]. Felt colour: [reference; physical sample required]. Lighting: [target lumens], [CCT], [CRI], [voltage], [control protocol]. Suspension: [length]. Please state the driver, included accessories, document set, sample time, bulk lead time, carton dimensions, warranty, Incoterm and exclusions.</blockquote>
-              <p>Add the room plan, reflected ceiling plan or reference image when available. For shape and application ideas, review the <a href="/products/acoustic-pendant-lights">acoustic pendant range</a>, <a href="/products/acoustic-linear-lights">acoustic linear lights</a> and <a href="/applications/office-meeting-rooms">office and meeting-room applications</a>.</p>
+              <p>Add the room plan, reflected ceiling plan or reference image when available. For shape and application ideas, review the <a href="/products/acoustic-pendant-lights">acoustic pendant range</a>, <a href="/products/acoustic-linear-lights">acoustic linear lights</a> and <a href="/applications/office-meeting-rooms">office and meeting-room applications</a>. If the ceiling plan is still being developed, start with the <a href="/blog/acoustic-pendant-light-placement-guide">pendant height and spacing guide</a>.</p>
               <div className="article-inline-cta">
                 <span>Structured quotation</span>
                 <h3>Send one brief that engineering and purchasing can both read</h3>
