@@ -237,6 +237,7 @@ const faqs = [
 ];
 
 const relatedLinks = [
+  ["Acoustic Baffles vs Ceiling Clouds vs Acoustic Pendant Lights", "/blog/acoustic-baffles-vs-clouds-vs-pendant-lights"],
   ["What Is Acoustic Pendant Lighting? PET Felt Lights Explained", "/blog/what-is-acoustic-pendant-lighting"],
   ["How to Choose PET Felt Acoustic Pendant Lights", "/blog/how-to-choose-pet-felt-acoustic-pendant-lights"],
   ["Best Acoustic Pendant Lighting for Open Offices and Meeting Rooms", "/blog/best-acoustic-pendant-lighting-open-offices-meeting-rooms"],
