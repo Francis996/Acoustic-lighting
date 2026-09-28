@@ -87,6 +87,7 @@ const faqs = [
 ];
 
 const relatedLinks = [
+  ["Fire-Rated PET Felt Lighting: Buyer Document Checklist", "/blog/fire-rated-pet-felt-acoustic-lighting-documents"],
   ["What Is Acoustic Pendant Lighting?", "/blog/what-is-acoustic-pendant-lighting"],
   ["Acoustic Lighting vs Acoustic Panels", "/blog/acoustic-lighting-vs-acoustic-panels"],
   ["How to Choose PET Felt Acoustic Pendant Lights", "/blog/how-to-choose-pet-felt-acoustic-pendant-lights"],
