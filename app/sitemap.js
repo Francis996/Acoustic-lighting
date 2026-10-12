@@ -3,12 +3,14 @@ import { productDetails } from "../content/productDetails";
 import content from "../content/siteContent.json";
 import { buildProjects } from "../lib/projectsData";
 import { newsArticles } from "../lib/newsData";
+import { blogArticles } from "../lib/articlesData";
 
 const productPaths = Object.entries(productDetails).map(
   ([slug, product]) => `${product.routeBase}/${slug}`
 );
 const projectPaths = buildProjects(content).map((project) => project.href);
 const newsPaths = newsArticles.map((article) => article.href);
+const blogPaths = blogArticles.map((article) => article.href);
 
 const paths = [
   "/",
@@ -18,16 +20,7 @@ const paths = [
   "/applications/restaurant-hospitality",
   "/applications/commercial-interiors",
   "/blog",
-  "/blog/does-acoustic-lighting-really-work",
-  "/blog/top-pet-felt-acoustic-lighting-manufacturers",
-  "/blog/pet-felt-acoustic-material-lighting-guide",
-  "/blog/led-acoustic-pendant-light-specification-guide",
-  "/blog/pet-felt-acoustic-lighting-cost",
-  "/blog/acoustic-lighting-vs-acoustic-panels",
-  "/blog/what-is-acoustic-pendant-lighting",
-  "/blog/how-to-choose-pet-felt-acoustic-pendant-lights",
-  "/blog/best-acoustic-pendant-lighting-open-offices-meeting-rooms",
-  "/blog/how-to-compare-pet-felt-acoustic-lighting-manufacturers",
+  ...blogPaths,
   "/contact",
   "/custom-acoustic-lighting-solutions",
   "/faq",

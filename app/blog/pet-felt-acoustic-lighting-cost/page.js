@@ -305,6 +305,7 @@ const faqs = [
 ];
 
 const relatedLinks = [
+  ["Is Acoustic Lighting Worth the Cost?", "/blog/is-acoustic-lighting-worth-the-cost"],
   ["What Is Acoustic Pendant Lighting? PET Felt Lights Explained", "/blog/what-is-acoustic-pendant-lighting"],
   ["Acoustic Lighting vs Acoustic Panels", "/blog/acoustic-lighting-vs-acoustic-panels"],
   ["How to Choose PET Felt Acoustic Pendant Lights", "/blog/how-to-choose-pet-felt-acoustic-pendant-lights"],
