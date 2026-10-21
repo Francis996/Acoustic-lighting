@@ -4003,6 +4003,13 @@ details p {
   max-height: 520px;
   object-fit: cover;
 }
+.article-specification-template {
+  display: grid;
+  gap: 18px;
+}
+.article-specification-template p {
+  margin: 0;
+}
 .article-video {
   overflow: hidden;
   margin: 28px 0 0;

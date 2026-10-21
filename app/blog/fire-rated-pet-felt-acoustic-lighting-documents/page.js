@@ -66,6 +66,7 @@ const faqs = [
 ];
 
 const relatedLinks = [
+  ["Commercial Acoustic Lighting Specification Guide", "/blog/commercial-acoustic-lighting-specification"],
   ["PET Felt Acoustic Material Lighting Guide", "/blog/pet-felt-acoustic-material-lighting-guide"],
   ["Acoustic Pendant Light Placement Guide", "/blog/acoustic-pendant-light-placement-guide"],
   ["NRC, αw and Sabins Explained", "/blog/nrc-alpha-w-sabins-acoustic-lighting"],

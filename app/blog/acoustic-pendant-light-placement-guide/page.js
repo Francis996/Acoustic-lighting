@@ -38,6 +38,7 @@ const faqs = [
 ];
 
 const relatedLinks = [
+  ["Commercial Acoustic Lighting Specification Guide", "/blog/commercial-acoustic-lighting-specification"],
   ["NRC, αw and Sabins Explained for Acoustic Lighting Buyers", "/blog/nrc-alpha-w-sabins-acoustic-lighting"],
   ["LED Acoustic Pendant Light Specification Guide", "/blog/led-acoustic-pendant-light-specification-guide"],
   ["Acoustic Pendant Lighting for Open Offices and Meeting Rooms", "/blog/best-acoustic-pendant-lighting-open-offices-meeting-rooms"],

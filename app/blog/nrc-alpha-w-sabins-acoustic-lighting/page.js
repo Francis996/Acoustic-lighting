@@ -65,6 +65,7 @@ const faqs = [
 ];
 
 const relatedLinks = [
+  ["Commercial Acoustic Lighting Specification Guide", "/blog/commercial-acoustic-lighting-specification"],
   ["Does Acoustic Lighting Really Work?", "/blog/does-acoustic-lighting-really-work"],
   ["What Is Acoustic Pendant Lighting?", "/blog/what-is-acoustic-pendant-lighting"],
   ["Acoustic Lighting vs Soundproofing", "/blog/acoustic-lighting-vs-soundproofing"],
