@@ -87,6 +87,7 @@ const faqs = [
 ];
 
 const relatedLinks = [
+  ["Custom PET Felt Pendant Lights: Color and OEM Process", "/blog/custom-pet-felt-pendant-lights-guide"],
   ["Fire-Rated PET Felt Lighting: Buyer Document Checklist", "/blog/fire-rated-pet-felt-acoustic-lighting-documents"],
   ["What Is Acoustic Pendant Lighting?", "/blog/what-is-acoustic-pendant-lighting"],
   ["Acoustic Lighting vs Acoustic Panels", "/blog/acoustic-lighting-vs-acoustic-panels"],

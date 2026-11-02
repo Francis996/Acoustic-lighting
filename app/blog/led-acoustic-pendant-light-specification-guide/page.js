@@ -113,6 +113,7 @@ const faqs = [
 ];
 
 const relatedLinks = [
+  ["Custom PET Felt Pendant Lights: LED and OEM Options", "/blog/custom-pet-felt-pendant-lights-guide"],
   ["Commercial Acoustic Lighting Specification Guide", "/blog/commercial-acoustic-lighting-specification"],
   ["What Is Acoustic Pendant Lighting?", "/blog/what-is-acoustic-pendant-lighting"],
   ["How to Choose PET Felt Acoustic Pendant Lights", "/blog/how-to-choose-pet-felt-acoustic-pendant-lights"],

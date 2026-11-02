@@ -95,6 +95,7 @@ const faqs = [
 ];
 
 const relatedLinks = [
+  ["Custom PET Felt Pendant Lights: Options and OEM Process", "/blog/custom-pet-felt-pendant-lights-guide"],
   ["How to Choose PET Felt Acoustic Pendant Lights", "/blog/how-to-choose-pet-felt-acoustic-pendant-lights"],
   ["NRC, αw and Sabins Explained", "/blog/nrc-alpha-w-sabins-acoustic-lighting"],
   ["LED Acoustic Pendant Light Specification Guide", "/blog/led-acoustic-pendant-light-specification-guide"],
